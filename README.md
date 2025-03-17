@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... creating something meaningful - something vanulable.
 - 🌱 I’m currently learning ...how to wrap my head around back-end tech. 
 - 💞️ I’m looking to collaborate on ... guidance. 
-- 📫 How to reach me ... texsub@gmail.com    
+- 📫 How to reach me ... texscrub@gmail.com    
 
   Arsalan Khan
 
