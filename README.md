@@ -1,49 +1,81 @@
-# Arsalan Khan (@timedilationv2)
+# Arsalan Khan  
+**AI Systems Builder | Automation Architect | Web Intelligence Strategist**
 
-I'm a **backend developer** and **senior technical writer** focused on building intelligent systems that integrate automation, machine learning, and clean backend architecture. I approach every problem with systems thinking and a bias toward execution.
-
----
-
-## About Me
-
-| Field            | Details                                                                 |
-|------------------|-------------------------------------------------------------------------|
-| **Interests**    | AI, machine learning, backend systems, cloud automation, DevOps         |
-| **Learning**     | Scalable backend architecture, ML pipelines, observability best practices |
-| **Email**        | [texscrub@gmail.com](mailto:texscrub@gmail.com)                         |
-| **LinkedIn**     | [aekaywrites](https://www.linkedin.com/in/aekaywrites/)                 |
+I build execution-first systems that combine AI, automation, and strategic intelligence into scalable tools. Every repository is part of a larger operating framework—Zleo—designed for relentless output, insight generation, and deep tech execution.
 
 ---
 
-## My Work & Contributions
+## Projects in Motion
 
-- **Backend Engineering**  
-  Focused on building reliable, testable APIs, CI/CD pipelines, and infrastructure-as-code systems.
-  
-- **Technical Writing**  
-  I specialize in turning complex systems into clear documentation—from backend workflows to ML ops.
-
-- **AI Systems & Automation**  
-  Designing early-stage ML-driven automation tools, using Python, FastAPI, and serverless services.
+| Project        | Description                                                                                 | Stack                               | Status      |
+|----------------|---------------------------------------------------------------------------------------------|-------------------------------------|-------------|
+| NoodleCloud    | Multi-cloud testing API for AWS, Azure, and GCP. Performance, security, and CI/CD ready.   | FastAPI, Terraform, PostgreSQL, AWS | In Progress |
+| Scrapetitan    | AI-powered market insight engine + web intelligence with execution automation.              | Python, BeautifulSoup, CLI, AI Core | In Progress |
+| Project DarkGreen (DG) | Bug bounty automation with exploit discovery + monetization pipelines.             | Recon, Bash, Python, GitHub Actions | Active      |
+| This Is The Way | Execution system for building scalable tech across cloud, AI, and automation.              | Python, Terraform, CLI, Zleo Core   | Framework   |
 
 ---
 
-## GitHub Projects
+## What I Focus On
 
-| Project | Description |
-|---------|-------------|
-| [**NadoxDocumentation**](https://github.com/timedilationv2/nadoxdocumentation) | A cloud-native, serverless system for managing modern API documentation using GitHub and AWS. |
-| [**DITADocs**](https://github.com/timedilationv2/ditadocs) | Modular documentation workflow using DITA, Markdown, and GitHub CI/CD. |
-
-More in development — stay tuned.
+- Functional, CLI-first Python execution
+- AI + Automation integrated into real systems
+- Infrastructure validation and security automation
+- GitHub as the core engine for execution & achievements
+- Zleo AI: a logic-first operating system for dominance
 
 ---
 
-## Connect with Me
+## System Snapshot: Zleo Architecture
 
-| Platform     | Link |
-|--------------|------|
-| **LinkedIn** | [aekaywrites](https://www.linkedin.com/in/aekaywrites/) |
-| **Email**    | [texscrub@gmail.com](mailto:texscrub@gmail.com) |
+![Zleo Architecture](https://user-images.githubusercontent.com/12252540/229287440-14fcaafe-27a4-4aa1-8ad0-5b158a0e4c69.png)
 
-I’m open to collaboration, idea exchange, and building high-impact tools in the open.
+> *Zleo is a real-time execution framework designed for strategic dominance. It governs data intake, logic processing, and high-impact automation.*
+
+---
+
+## Live Execution Strategy
+
+| Layer                | Function                                                                 |
+|----------------------|--------------------------------------------------------------------------|
+| Data Extraction      | Scraping, APIs, multi-source pipelines                                   |
+| AI Processing        | Prediction models, logic synthesis, automation triggers                  |
+| Execution Automation | CI/CD, alerts, auto-deployment, cloud validation                         |
+| Intelligence Output  | Dashboards, trading insights, market predictions                         |
+| Zleo AI Integration  | Continuous updates, self-triggering execution loops                      |
+
+---
+
+## GitHub Strategy
+
+| Achievement              | Description                                      | Target Action                         |
+|--------------------------|--------------------------------------------------|----------------------------------------|
+| Arctic Vault Contributor | Contribute to repos eligible for archiving      | Open-source contributions              |
+| Pull Shark               | Merged PRs in public repos                      | PRs to active open-source projects     |
+| YOLO                     | Merged own PRs                                  | Push and merge personal repo updates   |
+| Galaxy Brain             | Approve PRs on other repos                      | Contribute to community repos          |
+| Pair Extraordinaire      | Co-author commits with another dev              | Invite collaborators to NoodleCloud    |
+| Quickdraw                | Merge PRs within 30 minutes                     | Run agile PR+merge tests on test repos |
+
+---
+
+## Contact
+
+| Channel   | Info                                   |
+|-----------|----------------------------------------|
+| Email     | arsalan@timedilationv2.com             |
+| GitHub    | [github.com/timedilationv2](https://github.com/timedilationv2) |
+| Portfolio | [Coming Soon]                          |
+| Resume    | [Request via Email]                    |
+
+---
+
+## Upcoming Additions
+
+- `docs/` section with visual architecture diagrams for each project  
+- CI/CD walkthroughs for multi-cloud deployment (NoodleCloud)  
+- Open-source CLI utilities under `Zleo Tools`  
+- Secure GitHub Action templates for automation pipelines  
+- Live blog integration and documentation generation
+
+---
