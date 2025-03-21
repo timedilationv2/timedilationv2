@@ -1,115 +1,154 @@
+
 # Arsalan Khan
 
-**Systems Architect | AI Automation Strategist | Senior Technical Writer**  
-Designing scalable documentation, automation, and execution engines.
+**Systems Architect | AI Automation Strategist | Senior Technical Writer**
+
+Building self-executing systems and intelligent documentation pipelines.
 
 ---
 
-## 🔹 About Me
+![divider](./images/divider.png)
 
-With 10+ years of experience in documentation, technical writing, and system architecture, I specialize in translating complexity into clarity—and clarity into systems that scale.
+## About Me
 
-- **Technical Writing & UX:** DITA XML, SOP conversion, UX-integrated knowledge models  
-- **Enterprise Background:** Led documentation pipelines at a leading Aviation/Aerospace firm (VIC) and a Fortune 500 organization  
-- **Execution Systems:** Python, FastAPI, CLI-first logic engines, automation pipelines  
-- **Creative Edge:** Storyteller by instinct, systems builder by design
+With over a decade of experience across technical writing, automation, and UX architecture, I specialize in building logic-first systems that execute.
 
----
-
-## 🔹 Core Projects
-
-| Project                  | Description                                                                 | Tech Stack                             | Status       |
-|--------------------------|-----------------------------------------------------------------------------|----------------------------------------|--------------|
-| **Zleo AI**              | Memory-first logic system for dynamic execution and knowledge recall.       | Python, CLI, Modular Graph             | Active       |
-| **NoodleCloud**          | Multi-cloud API testing engine (AWS, Azure, GCP). CI/CD, benchmarking, security. | FastAPI, Terraform, PostgreSQL         | In Progress  |
-| **Scrapetitan**          | AI-powered market data intelligence and automation engine.                  | Python, Web Scraping, AI               | In Progress  |
-| **ProjectDG (DarkGreen)**| Bug bounty automation + exploit recon and monetization system.              | Recon Tools, GitHub Actions, Python    | Active       |
-| **This Is The Way**      | Framework to scale AI tools from zero to full-execution.                    | CLI-First Architecture, Terraform      | Active       |
+- 10+ years in **Technical & Creative Writing**
+- 10+ years in **Documentation & UX-Integrated Design**
+- Experience with **Aviation (VIC)** and a **Fortune 500 enterprise**
+- Architect of **Zleo**, a real-time memory execution framework
 
 ---
 
-## 🔹 Zleo Flowchart
+![divider](./images/divider.png)
 
-> View version based on your GitHub theme.
+## Core Projects
 
-**Dark Mode Recommended**  
-![Zleo Flowchart - Dark](./images/zleo_flowchart_dark.png)
+```diff
++ Zleo AI
+  Memory-first logic system for recall, decision automation, and continuous execution
 
-**Light Mode Version**  
-![Zleo Flowchart - Light](./images/zleo_flowchart_light.png)
++ NoodleCloud
+  Multi-cloud testing API across AWS, Azure, and GCP (benchmarks, validation, security)
+
++ Scrapetitan
+  Web scraping + market intelligence + automation
+
++ ProjectDG
+  Bug bounty recon automation + monetization pipelines
+
++ This Is The Way
+  Execution framework for scaling cloud/AI tools from zero to production
+```
 
 ---
 
-## 🔹 Tech Stack Pipeline
+![divider](./images/divider.png)
 
-> How execution flows through the core architecture.
+## Zleo Execution Flowchart
+
+> Choose based on your GitHub theme setting
+
+**Dark Mode**  
+![Zleo Flowchart – Dark](./images/zleo_flowchart_dark.png)
+
+**Light Mode**  
+![Zleo Flowchart – Light](./images/zleo_flowchart_light.png)
+
+---
+
+![divider](./images/divider.png)
+
+## Tech Stack Execution Pipeline
+
+> Visual representation of how core systems interact
 
 ![Tech Stack Pipeline](./images/tech_stack_pipeline_dark.png)
 
 ---
 
-## 🔹 GitHub Stats
+![divider](./images/divider.png)
+
+## Technology Stack & Tools
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Frameworks & Infra
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
+
+### Docs & UX
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown)
+![DITA XML](https://img.shields.io/badge/DITA_XML-FF6F00?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+![divider](./images/divider.png)
+
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timedilationv2&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-## 🔹 Profile Visualizer
+## Profile Visualizer
 
 ![Profile Visualizer](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timedilationv2&theme=github_dark)
 
 ---
 
-## 🔹 Technology Stack & Tools
+![divider](./images/divider.png)
 
-| Tool           | Badge |
-|----------------|-------|
-| Python         | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
-| FastAPI        | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
-| Terraform      | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform) |
-| AWS / Azure / GCP | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud) |
-| PostgreSQL     | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
-| DITA / Docs    | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown) ![DITA](https://img.shields.io/badge/DITA_XML-FF6F00?style=for-the-badge) |
+## Contact & Links
 
----
-
-## 🔹 Contact & Links
-
-| Platform    | Link |
-|-------------|------|
-| **Email**   | [arsalan@timedilationv2.com](mailto:arsalan@timedilationv2.com) |
-| **LinkedIn**| [linkedin.com/in/arsalankhan](https://linkedin.com/in/arsalankhan) |
-| **GitHub**  | [github.com/timedilationv2](https://github.com/timedilationv2) |
-| **Discord** | `Arsalan#0001` *(or update your handle)* |
-| **Blog**    | [timedilationv2.com](https://timedilationv2.com) *(Coming soon)* |
+```bash
+📧 Email:       arsalan@timedilationv2.com
+🔗 LinkedIn:    https://linkedin.com/in/arsalankhan
+🌐 GitHub:      https://github.com/timedilationv2
+💬 Discord:     Arsalan#0001
+📝 Website:     timedilationv2.com (coming soon)
+```
 
 ---
 
-## 🔹 Favorite Docs & Platforms
+![divider](./images/divider.png)
 
-- [Write the Docs](https://www.writethedocs.org/)  
-- [DevDocs](https://devdocs.io/)  
-- [Read the Docs](https://readthedocs.org/)  
+## Documentation & Writing Platforms
+
+- [Write the Docs](https://www.writethedocs.org/)
+- [DevDocs](https://devdocs.io/)
+- [Read the Docs](https://readthedocs.org/)
 - [Smashing Magazine – Tech Writing](https://www.smashingmagazine.com/category/writing/)
 
 ---
 
-## 🔹 GitHub Execution Goals
+![divider](./images/divider.png)
 
-| Badge | Description |
-|-------|-------------|
-| YOLO | Own project commit streaks |
-| Pull Shark | PRs merged in open source |
-| Galaxy Brain | Technical reviews |
-| Arctic Vault | Preserved code contributions |
-| Pair Extraordinaire | Co-authored commits |
-| Sponsor & Community Leader | Technical writing and open contribution |
+## GitHub Goals & Execution Strategy
 
----
+```diff
++ YOLO
+  Push daily commits to active systems
 
-## 🔹 Philosophy
++ Pull Shark
+  Open-source PRs for AI + automation
 
-> **“Documentation is the interface. Clarity is execution.”**
++ Galaxy Brain
+  Deep code reviews with execution logic
 
-If it doesn’t scale, it’s not finished.
++ Arctic Vault
+  Long-term code preservation
+
++ Sponsor & Collaborate
+  Community-first, documentation-powered contribution
+```
