@@ -1,38 +1,49 @@
 # Arsalan Khan (@timedilationv2)
 
-I'm a **backend developer** and **senior technical writer** driven by a passion for innovation—especially in AI, machine learning, and automated systems. My work revolves around exploring, designing, and implementing intelligent solutions that push the boundaries of technology.
+I'm a **backend developer** and **senior technical writer** focused on building intelligent systems that integrate automation, machine learning, and clean backend architecture. I approach every problem with systems thinking and a bias toward execution.
 
 ---
 
-## About Me  
+## About Me
 
-- **Interests:** AI, machine learning, backend architecture, automation, and cloud infrastructure.
-- **Currently Learning:** Advanced backend systems, ML workflows, and DevOps best practices.
-- **Collaboration:** Always open to innovative ideas and meaningful conversations.
-- **Contact:** [texscrub@gmail.com](mailto:texscrub@gmail.com) | [LinkedIn](https://www.linkedin.com/in/aekaywrites/)
-
----
-
-## Work & Contributions  
-
-- **Backend Development:** API design, cloud automation, intelligent systems.
-- **Technical Writing:** High-level technical guides, in-depth product documentation, research.
-- **AI & Cloud:** AWS solutions, machine learning applications, CI/CD automation.
+| Field            | Details                                                                 |
+|------------------|-------------------------------------------------------------------------|
+| **Interests**    | AI, machine learning, backend systems, cloud automation, DevOps         |
+| **Learning**     | Scalable backend architecture, ML pipelines, observability best practices |
+| **Email**        | [texscrub@gmail.com](mailto:texscrub@gmail.com)                         |
+| **LinkedIn**     | [aekaywrites](https://www.linkedin.com/in/aekaywrites/)                 |
 
 ---
 
-## GitHub Projects  
+## My Work & Contributions
 
-### [NadoxDocumentation](https://github.com/timedilationv2/nadoxdocumentation)
-A serverless, cloud-based API documentation system.
+- **Backend Engineering**  
+  Focused on building reliable, testable APIs, CI/CD pipelines, and infrastructure-as-code systems.
+  
+- **Technical Writing**  
+  I specialize in turning complex systems into clear documentation—from backend workflows to ML ops.
 
-More innovative projects coming soon.
+- **AI Systems & Automation**  
+  Designing early-stage ML-driven automation tools, using Python, FastAPI, and serverless services.
 
 ---
 
-## Connect with Me  
+## GitHub Projects
 
-- [**LinkedIn**](https://www.linkedin.com/in/aekaywrites/)
-- [**Email**](mailto:texscrub@gmail.com)
+| Project | Description |
+|---------|-------------|
+| [**NadoxDocumentation**](https://github.com/timedilationv2/nadoxdocumentation) | A cloud-native, serverless system for managing modern API documentation using GitHub and AWS. |
+| [**DITADocs**](https://github.com/timedilationv2/ditadocs) | Modular documentation workflow using DITA, Markdown, and GitHub CI/CD. |
 
-_Open-source collaboration and discussions are always welcome._
+More in development — stay tuned.
+
+---
+
+## Connect with Me
+
+| Platform     | Link |
+|--------------|------|
+| **LinkedIn** | [aekaywrites](https://www.linkedin.com/in/aekaywrites/) |
+| **Email**    | [texscrub@gmail.com](mailto:texscrub@gmail.com) |
+
+I’m open to collaboration, idea exchange, and building high-impact tools in the open.
