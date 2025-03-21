@@ -2,111 +2,101 @@
 
 **Systems Architect | AI Automation Strategist | Senior Technical Writer**
 
-I build modular execution systems, not one-off projects.  
-Every repo here is a functional engine—designed, documented, and deployed with clarity.
+I build modular execution systems—not passive codebases.  
+Every repo here is an intelligent system engineered for real-world execution.
 
 ---
 
-## About Me
+## 🔹 About Me
 
-With over a decade of experience in technical writing, UX design, and automation, I specialize in turning complexity into clarity—and clarity into systems that execute. My work includes:
+With 10+ years of experience across technical writing, system documentation, and creative storytelling, I specialize in translating complexity into clarity.
 
-- **10+ years in Technical Documentation:** SOP engineering, DITA-based docs, UX-integrated knowledge systems  
-- **10+ years in Creative Writing:** Structured narratives, technical storytelling, clarity at scale  
-- **AI, Automation, and CLI-first Systems:** I build real engines, from idea to interface  
-- **Aviation/Aerospace + Fortune 500 Experience:** Converted thousands of SOPs into intelligent, automated pipelines.  
-  *(Details limited due to confidentiality)*
-
-Now, I lead the design of **Zleo AI**, a logic-first operating framework for automation, intelligence, and technical clarity.
+- **Documentation & UX:** DITA XML, Markdown, SOP transformation, UX-integrated flows  
+- **Enterprise Experience:** Led automation and documentation pipelines at an Aviation/Aerospace firm (VIC) and a Fortune 500 company  
+- **Execution Architect:** I design logic-first frameworks where docs, code, and systems are deeply integrated  
+- **Creative Systems Thinking:** I merge documentation, AI automation, and execution logic into scalable architectures
 
 ---
 
-## Core Projects
+## 🔹 Core Projects
 
 | Project                  | Description                                                                 | Stack                                      | Status       |
 |--------------------------|-----------------------------------------------------------------------------|--------------------------------------------|--------------|
-| **Zleo AI**              | Modular execution memory system that adapts, recalls, and builds. | Python, CLI, Knowledge Graphs | Active |
-| **NoodleCloud**          | Multi-cloud testing API for AWS, Azure, and GCP. Includes security compliance, load testing, and CI/CD pipelines. | FastAPI, Terraform, Boto3, PostgreSQL | In Progress |
-| **Scrapetitan**          | AI-powered web intelligence engine. Extracts market data, predicts shifts, and executes automation. | Python, BeautifulSoup, AI Core | In Progress |
-| **ProjectDG (DarkGreen)**| Automated bug bounty + exploit recon. Real-time discovery and monetization. | Recon, GitHub Actions, Python | Active |
-| **This Is The Way**      | Execution framework for building scalable automation and intelligence stacks. | CLI-first, Python, Terraform | Active |
+| **Zleo AI**              | Memory-first intelligence framework that automates decisions, recall, and action. | Python, CLI, Modular Graph                 | Active       |
+| **NoodleCloud**          | Multi-cloud API for testing, load benchmarking, and validation across AWS, Azure, and GCP. | FastAPI, Terraform, PostgreSQL             | In Progress  |
+| **Scrapetitan**          | AI-powered web intelligence engine for market data, insight generation, and automation. | Python, Web Scraping, AI Core              | In Progress  |
+| **ProjectDG (DarkGreen)**| Bug bounty + exploit automation and monetization. Recon meets execution.         | Recon Tools, GitHub Actions, Python        | Active       |
+| **This Is The Way**      | Scalable execution framework for building tech/AI systems from idea to deployment. | Python, CLI-first Architecture             | Active       |
 
 ---
 
-## Zleo Execution Flowchart
+## 🔹 Zleo Execution Flowchart
 
-<p align="center">
-  <img src="./images/zleo_execution_flowchart.png" width="750">
-</p>
+> Zleo operates through modular memory recall, contextual parsing, and logic-based execution.
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=timedilationv2&show_icons=true&theme=dark&hide_border=true" width="500" />
-</p>
+![Zleo Execution Flowchart](./images/zleo_execution_flowchart_v2.png)
 
 ---
 
-## Profile Visualizer
+## 🔹 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timedilationv2&theme=github_dark" width="750" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timedilationv2&show_icons=true&theme=dark&hide_border=true)
 
 ---
 
-## Stack Grid
+## 🔹 Profile Visualizer
 
-| Language/Tool      | Description                                 |
-|--------------------|---------------------------------------------|
-| Python (CLI & FastAPI) | Core automation, APIs, logic engines       |
-| Terraform          | Infrastructure as Code (IaC)                |
-| GitHub Actions     | Workflow automation, CI/CD pipelines        |
-| AWS, Azure, GCP    | Cloud-native design & deployment            |
-| DITA XML, Markdown | Technical documentation & dynamic pipelines |
-| PostgreSQL, Redis  | Logging, caching, and data operations       |
-| Figma, Adobe XD    | UX architecture and interface logic         |
+![Profile Visualizer](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=timedilationv2&theme=github_dark)
 
 ---
 
-## Contact & Professional Links
+## 🔹 Tech Stack
 
-- **Email:** [arsalan@timedilationv2.com](mailto:arsalan@timedilationv2.com)  
-- **LinkedIn:** [linkedin.com/in/arsalankhan](https://linkedin.com/in/arsalankhan)  
-- **GitHub:** [github.com/timedilationv2](https://github.com/timedilationv2)  
-- **Discord:** `Arsalan#0001` *(or update with actual handle)*  
-- **Blog (Coming Soon):** [timedilationv2.com](https://timedilationv2.com)
-
----
-
-## Documentation + Technical Writing Resources
-
-- [Write the Docs](https://www.writethedocs.org/)  
-- [DevDocs](https://devdocs.io/)  
-- [Read the Docs](https://readthedocs.org/)  
-- [Smashing Magazine – Tech Writing](https://www.smashingmagazine.com/category/writing/)  
+| Category             | Tools & Technologies                                                                 |
+|----------------------|----------------------------------------------------------------------------------------|
+| **Languages**        | Python (CLI, FastAPI), Bash, SQL                                                      |
+| **Cloud & Infra**    | AWS, Azure, GCP, Terraform, GitHub Actions                                            |
+| **Docs & UX**        | DITA XML, Markdown, Sphinx, Figma, Adobe XD                                           |
+| **Data & Storage**   | PostgreSQL, Redis                                                                     |
+| **Execution Systems**| CLI-first architecture, Automation Pipelines, Modular Codebases                       |
 
 ---
 
-## GitHub Progress & Goals
+## 🔹 Contact
 
-I'm systematically unlocking GitHub achievements aligned with real execution:
+| Platform    | Link |
+|-------------|------|
+| **Email**   | [arsalan@timedilationv2.com](mailto:arsalan@timedilationv2.com) |
+| **LinkedIn**| [linkedin.com/in/arsalankhan](https://linkedin.com/in/arsalankhan) |
+| **GitHub**  | [github.com/timedilationv2](https://github.com/timedilationv2) |
+| **Discord** | `Arsalan#0001` *(Update with actual handle)* |
+| **Website** | Coming Soon — [timedilationv2.com](https://timedilationv2.com) |
+
+---
+
+## 🔹 Documentation & Knowledge Platforms
+
+- [Write the Docs](https://www.writethedocs.org/)
+- [DevDocs](https://devdocs.io/)
+- [Read the Docs](https://readthedocs.org/)
+- [Smashing Magazine – Tech Writing](https://www.smashingmagazine.com/category/writing/)
+
+---
+
+## 🔹 GitHub Goals & Execution Strategy
+
+I use GitHub not just to push code—but to document real execution pipelines.
 
 - **YOLO** → Daily project commits  
-- **Pull Shark** → Contributions to open-source  
-- **Galaxy Brain** → Code reviews & strategy  
-- **Arctic Code Vault** → Preserved open knowledge  
-- **Pair Extraordinaire** → Collaborations & co-authored commits  
-- **Sponsor & Community Work** → Writing, support, and mentorship
+- **Pull Shark** → PRs in open-source repos  
+- **Galaxy Brain** → Strategic code reviews  
+- **Arctic Vault** → Preserved open knowledge  
+- **Pair Extraordinaire** → Collaborations and co-authored projects  
 
 ---
 
-## Core Philosophy
+## 🔹 Philosophy
 
 > **“Documentation is the interface. Clarity is execution.”**
 
-If it can’t scale, it isn’t done.
-
----
+If it doesn’t scale, it’s not finished.
