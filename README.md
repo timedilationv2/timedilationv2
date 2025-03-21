@@ -1,40 +1,50 @@
 # Arsalan Khan
 
-**Systems Architect | AI Automation Strategist | Senior Technical Writer**
-
-I build modular execution systems—not passive codebases.  
-Every repo here is an intelligent system engineered for real-world execution.
+**Systems Architect | AI Automation Strategist | Senior Technical Writer**  
+Designing scalable documentation, automation, and execution engines.
 
 ---
 
 ## 🔹 About Me
 
-With 10+ years of experience across technical writing, system documentation, and creative storytelling, I specialize in translating complexity into clarity.
+With 10+ years of experience in documentation, technical writing, and system architecture, I specialize in translating complexity into clarity—and clarity into systems that scale.
 
-- **Documentation & UX:** DITA XML, Markdown, SOP transformation, UX-integrated flows  
-- **Enterprise Experience:** Led automation and documentation pipelines at an Aviation/Aerospace firm (VIC) and a Fortune 500 company  
-- **Execution Architect:** I design logic-first frameworks where docs, code, and systems are deeply integrated  
-- **Creative Systems Thinking:** I merge documentation, AI automation, and execution logic into scalable architectures
+- **Technical Writing & UX:** DITA XML, SOP conversion, UX-integrated knowledge models  
+- **Enterprise Background:** Led documentation pipelines at a leading Aviation/Aerospace firm (VIC) and a Fortune 500 organization  
+- **Execution Systems:** Python, FastAPI, CLI-first logic engines, automation pipelines  
+- **Creative Edge:** Storyteller by instinct, systems builder by design
 
 ---
 
 ## 🔹 Core Projects
 
-| Project                  | Description                                                                 | Stack                                      | Status       |
-|--------------------------|-----------------------------------------------------------------------------|--------------------------------------------|--------------|
-| **Zleo AI**              | Memory-first intelligence framework that automates decisions, recall, and action. | Python, CLI, Modular Graph                 | Active       |
-| **NoodleCloud**          | Multi-cloud API for testing, load benchmarking, and validation across AWS, Azure, and GCP. | FastAPI, Terraform, PostgreSQL             | In Progress  |
-| **Scrapetitan**          | AI-powered web intelligence engine for market data, insight generation, and automation. | Python, Web Scraping, AI Core              | In Progress  |
-| **ProjectDG (DarkGreen)**| Bug bounty + exploit automation and monetization. Recon meets execution.         | Recon Tools, GitHub Actions, Python        | Active       |
-| **This Is The Way**      | Scalable execution framework for building tech/AI systems from idea to deployment. | Python, CLI-first Architecture             | Active       |
+| Project                  | Description                                                                 | Tech Stack                             | Status       |
+|--------------------------|-----------------------------------------------------------------------------|----------------------------------------|--------------|
+| **Zleo AI**              | Memory-first logic system for dynamic execution and knowledge recall.       | Python, CLI, Modular Graph             | Active       |
+| **NoodleCloud**          | Multi-cloud API testing engine (AWS, Azure, GCP). CI/CD, benchmarking, security. | FastAPI, Terraform, PostgreSQL         | In Progress  |
+| **Scrapetitan**          | AI-powered market data intelligence and automation engine.                  | Python, Web Scraping, AI               | In Progress  |
+| **ProjectDG (DarkGreen)**| Bug bounty automation + exploit recon and monetization system.              | Recon Tools, GitHub Actions, Python    | Active       |
+| **This Is The Way**      | Framework to scale AI tools from zero to full-execution.                    | CLI-First Architecture, Terraform      | Active       |
 
 ---
 
-## 🔹 Zleo Execution Flowchart
+## 🔹 Zleo Flowchart
 
-> Zleo operates through modular memory recall, contextual parsing, and logic-based execution.
+> View version based on your GitHub theme.
 
-![Zleo Execution Flowchart](./images/zleo_execution_flowchart_v2.png)
+**Dark Mode Recommended**  
+![Zleo Flowchart - Dark](./images/zleo_flowchart_dark.png)
+
+**Light Mode Version**  
+![Zleo Flowchart - Light](./images/zleo_flowchart_light.png)
+
+---
+
+## 🔹 Tech Stack Pipeline
+
+> How execution flows through the core architecture.
+
+![Tech Stack Pipeline](./images/tech_stack_pipeline_dark.png)
 
 ---
 
@@ -50,48 +60,51 @@ With 10+ years of experience across technical writing, system documentation, and
 
 ---
 
-## 🔹 Tech Stack
+## 🔹 Technology Stack & Tools
 
-| Category             | Tools & Technologies                                                                 |
-|----------------------|----------------------------------------------------------------------------------------|
-| **Languages**        | Python (CLI, FastAPI), Bash, SQL                                                      |
-| **Cloud & Infra**    | AWS, Azure, GCP, Terraform, GitHub Actions                                            |
-| **Docs & UX**        | DITA XML, Markdown, Sphinx, Figma, Adobe XD                                           |
-| **Data & Storage**   | PostgreSQL, Redis                                                                     |
-| **Execution Systems**| CLI-first architecture, Automation Pipelines, Modular Codebases                       |
+| Tool           | Badge |
+|----------------|-------|
+| Python         | ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white) |
+| FastAPI        | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) |
+| Terraform      | ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform) |
+| AWS / Azure / GCP | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud) |
+| PostgreSQL     | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
+| GitHub Actions | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
+| DITA / Docs    | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown) ![DITA](https://img.shields.io/badge/DITA_XML-FF6F00?style=for-the-badge) |
 
 ---
 
-## 🔹 Contact
+## 🔹 Contact & Links
 
 | Platform    | Link |
 |-------------|------|
 | **Email**   | [arsalan@timedilationv2.com](mailto:arsalan@timedilationv2.com) |
 | **LinkedIn**| [linkedin.com/in/arsalankhan](https://linkedin.com/in/arsalankhan) |
 | **GitHub**  | [github.com/timedilationv2](https://github.com/timedilationv2) |
-| **Discord** | `Arsalan#0001` *(Update with actual handle)* |
-| **Website** | Coming Soon — [timedilationv2.com](https://timedilationv2.com) |
+| **Discord** | `Arsalan#0001` *(or update your handle)* |
+| **Blog**    | [timedilationv2.com](https://timedilationv2.com) *(Coming soon)* |
 
 ---
 
-## 🔹 Documentation & Knowledge Platforms
+## 🔹 Favorite Docs & Platforms
 
-- [Write the Docs](https://www.writethedocs.org/)
-- [DevDocs](https://devdocs.io/)
-- [Read the Docs](https://readthedocs.org/)
+- [Write the Docs](https://www.writethedocs.org/)  
+- [DevDocs](https://devdocs.io/)  
+- [Read the Docs](https://readthedocs.org/)  
 - [Smashing Magazine – Tech Writing](https://www.smashingmagazine.com/category/writing/)
 
 ---
 
-## 🔹 GitHub Goals & Execution Strategy
+## 🔹 GitHub Execution Goals
 
-I use GitHub not just to push code—but to document real execution pipelines.
-
-- **YOLO** → Daily project commits  
-- **Pull Shark** → PRs in open-source repos  
-- **Galaxy Brain** → Strategic code reviews  
-- **Arctic Vault** → Preserved open knowledge  
-- **Pair Extraordinaire** → Collaborations and co-authored projects  
+| Badge | Description |
+|-------|-------------|
+| YOLO | Own project commit streaks |
+| Pull Shark | PRs merged in open source |
+| Galaxy Brain | Technical reviews |
+| Arctic Vault | Preserved code contributions |
+| Pair Extraordinaire | Co-authored commits |
+| Sponsor & Community Leader | Technical writing and open contribution |
 
 ---
 
