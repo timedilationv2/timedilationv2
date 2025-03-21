@@ -1,81 +1,93 @@
-# Arsalan Khan  
-**AI Systems Builder | Automation Architect | Web Intelligence Strategist**
+  # Arsalan Khan
 
-I build execution-first systems that combine AI, automation, and strategic intelligence into scalable tools. Every repository is part of a larger operating framework—Zleo—designed for relentless output, insight generation, and deep tech execution.
-
----
-
-## Projects in Motion
-
-| Project        | Description                                                                                 | Stack                               | Status      |
-|----------------|---------------------------------------------------------------------------------------------|-------------------------------------|-------------|
-| NoodleCloud    | Multi-cloud testing API for AWS, Azure, and GCP. Performance, security, and CI/CD ready.   | FastAPI, Terraform, PostgreSQL, AWS | In Progress |
-| Scrapetitan    | AI-powered market insight engine + web intelligence with execution automation.              | Python, BeautifulSoup, CLI, AI Core | In Progress |
-| Project DarkGreen (DG) | Bug bounty automation with exploit discovery + monetization pipelines.             | Recon, Bash, Python, GitHub Actions | Active      |
-| This Is The Way | Execution system for building scalable tech across cloud, AI, and automation.              | Python, Terraform, CLI, Zleo Core   | Framework   |
+**Systems Architect | AI Automation Strategist | Senior Technical Writer**  
+Building tools that think, write, and execute.
 
 ---
 
-## What I Focus On
+## About Me
 
-- Functional, CLI-first Python execution
-- AI + Automation integrated into real systems
-- Infrastructure validation and security automation
-- GitHub as the core engine for execution & achievements
-- Zleo AI: a logic-first operating system for dominance
+With over a decade of experience in technical writing, UX design, and automation, I specialize in turning complex systems into clear, functional, and executable products. My work spans across:
 
----
+- **Technical Documentation (10+ years):** From DITA XML to automated doc pipelines and compliance-driven SOP conversions.  
+- **Creative & Strategic Writing (10+ years):** Storytelling fused with clarity, context, and structure.  
+- **UX & Systems Design:** Interface-aware documentation, knowledge models, and scalable workflows.  
+- **Automation + Execution Systems:** Python-based CLI tools, AI-integrated pipelines, and web intelligence engines.  
 
-## System Snapshot: Zleo Architecture
+I’ve worked with companies like **VIC (Aviation/Aerospace)** and a **Fortune 500 enterprise** where I led the conversion of large volumes of SOPs into interactive, auto-updating systems. These projects required a hybrid skill set—**technical documentation analyst, automation strategist, and user-experience integrator.**  
 
-![Zleo Architecture](https://user-images.githubusercontent.com/12252540/229287440-14fcaafe-27a4-4aa1-8ad0-5b158a0e4c69.png)
-
-> *Zleo is a real-time execution framework designed for strategic dominance. It governs data intake, logic processing, and high-impact automation.*
+Now, I’m focused on building **modular, scalable execution systems** under my unified architecture—**Zleo**.
 
 ---
 
-## Live Execution Strategy
+## Core Projects
 
-| Layer                | Function                                                                 |
-|----------------------|--------------------------------------------------------------------------|
-| Data Extraction      | Scraping, APIs, multi-source pipelines                                   |
-| AI Processing        | Prediction models, logic synthesis, automation triggers                  |
-| Execution Automation | CI/CD, alerts, auto-deployment, cloud validation                         |
-| Intelligence Output  | Dashboards, trading insights, market predictions                         |
-| Zleo AI Integration  | Continuous updates, self-triggering execution loops                      |
-
----
-
-## GitHub Strategy
-
-| Achievement              | Description                                      | Target Action                         |
-|--------------------------|--------------------------------------------------|----------------------------------------|
-| Arctic Vault Contributor | Contribute to repos eligible for archiving      | Open-source contributions              |
-| Pull Shark               | Merged PRs in public repos                      | PRs to active open-source projects     |
-| YOLO                     | Merged own PRs                                  | Push and merge personal repo updates   |
-| Galaxy Brain             | Approve PRs on other repos                      | Contribute to community repos          |
-| Pair Extraordinaire      | Co-author commits with another dev              | Invite collaborators to NoodleCloud    |
-| Quickdraw                | Merge PRs within 30 minutes                     | Run agile PR+merge tests on test repos |
+| Project                  | Description                                                                 | Stack                                      | Status       |
+|--------------------------|-----------------------------------------------------------------------------|--------------------------------------------|--------------|
+| **Zleo AI**              | My root intelligence system for dynamic execution, memory, and strategic action. Self-optimizing. | Python, Modular CLI, Memory Graphs         | Active       |
+| **NoodleCloud**          | Cloud-native testing API for AWS, Azure, and GCP. Benchmarks performance, validates infra, checks security. | FastAPI, Boto3, Azure SDK, Terraform        | In Progress  |
+| **Scrapetitan**          | AI-powered web intelligence engine. Fetches market trends, generates predictive insights, and automates responses. | Python, BeautifulSoup, CLI, AI Core         | In Progress  |
+| **ProjectDG (DarkGreen)**| Bug bounty automation meets real-time monetization. Recon + proof systems. | Recon, Python, GitHub Actions, CLI Toolkit  | Active       |
+| **This Is The Way**      | My execution framework for system builders, designed to scale tech, automation, and AI tools from zero to dominant. | CLI-First Architectures, Terraform, Python | Active       |
 
 ---
 
-## Contact
+## What I Actually Do
 
-| Channel   | Info                                   |
-|-----------|----------------------------------------|
-| Email     | arsalan@timedilationv2.com             |
-| GitHub    | [github.com/timedilationv2](https://github.com/timedilationv2) |
-| Portfolio | [Coming Soon]                          |
-| Resume    | [Request via Email]                    |
+- Convert undocumented knowledge into clean, dynamic systems  
+- Design AI-integrated automation pipelines for real-world use  
+- Build tools that execute—never passive documentation  
+- Write like an engineer, think like a strategist, and structure like a systems designer  
+- Master interfaces: from documentation to command-line UX  
+- Bridge chaos to clarity across cloud, AI, and code  
+
+---
+
+## Technical Capabilities
+
+- **Languages & Frameworks:** Python (CLI, FastAPI), Bash, Markdown, DITA XML, SQL  
+- **Cloud & DevOps:** AWS, Azure, Terraform, GitHub Actions, CI/CD  
+- **Documentation & UX Tools:** DITA-based systems, Markdown pipelines, Sphinx, MkDocs, Figma, Adobe XD  
+- **Execution Architecture:** CLI-first logic models, automated pipelines, modular system design  
+- **Versioning & Control:** Git, GitHub (Actions, Projects, Discussions), Structured GitOps  
 
 ---
 
-## Upcoming Additions
+## Contact & Platforms
 
-- `docs/` section with visual architecture diagrams for each project  
-- CI/CD walkthroughs for multi-cloud deployment (NoodleCloud)  
-- Open-source CLI utilities under `Zleo Tools`  
-- Secure GitHub Action templates for automation pipelines  
-- Live blog integration and documentation generation
+- **Email:** [arsalan@timedilationv2.com](mailto:arsalan@timedilationv2.com)  
+- **LinkedIn:** [linkedin.com/in/arsalankhan](https://www.linkedin.com/in/arsalankhan) *(Update with your actual URL)*  
+- **GitHub:** [github.com/timedilationv2](https://github.com/timedilationv2)  
+- **Discord:** `Arsalan#0001` *(or your actual handle)*  
+- **Blog (Coming Soon):** `https://timedilationv2.com`  
+- **Documentation Platforms to Follow:**  
+  - [Write the Docs](https://www.writethedocs.org/)  
+  - [DevDocs](https://devdocs.io/)  
+  - [Read the Docs](https://readthedocs.org/)  
+  - [Smashing Magazine (Tech Writing)](https://www.smashingmagazine.com/category/writing/)  
 
 ---
+
+## GitHub Focus
+
+- Publishing clean, functional codebases with full documentation and execution pathways  
+- Contributing to open-source efforts in cloud automation, AI, and technical writing systems  
+- Unlocking GitHub achievements tied to real progress:  
+  - **YOLO** → Personal project commits  
+  - **Pull Shark** → PRs in open-source  
+  - **Arctic Code Vault** → Long-term preservation  
+  - **Galaxy Brain** → Reviews + Technical Discourse  
+  - **Pair Extraordinaire** → Co-authored commits  
+  - **Sponsor / Community Leader** → Giving back through insight and support  
+
+---
+
+## Core Philosophy
+
+> **“Documentation is not an afterthought. It is the interface to execution.”**  
+>  
+> I build systems that explain themselves, scale with clarity, and leave no ambiguity between code and its consequence.
+
+---
+
+**Let’s build something real.**
