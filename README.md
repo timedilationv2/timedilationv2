@@ -1,7 +1,7 @@
 
-# Arsalan A. Khan
+# Arsalan A. Khan | @timedilationV2
 
-**Backend Developer | Senior Technical Writer | AI Enthusiast**
+**Full Stack | Senior Technical Writer | Super_Nerd!**
 
 "Breaking down a few stars, building galaxies anyway."
 
