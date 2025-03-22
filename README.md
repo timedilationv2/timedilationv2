@@ -34,15 +34,7 @@ I build tools that reduce friction and write docs that make them usable.
 **Email:** arsalan@timedilationv2.com  
 **LinkedIn:** [linkedin.com/in/arsalan-khan](https://linkedin.com/in/arsalankhan)
 
-"Build once. Write well. Execute fast."
-
----
-
-### 🧠 Optional Visual Upgrade:
-If you want **actual black + neon green** terminal aesthetics:
-- Create a **GitHub Pages site** from your profile repo
-- Use a minimal theme like `minimal-mistakes` or a custom HTML/CSS page
-- Add terminal CSS:
+WA 2025
 
 ```css
 body {
