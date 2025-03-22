@@ -1,25 +1,31 @@
-# Arsalan A. Khan  
-**Backend Developer | Senior Technical Writer | AI Innovator**
+from pathlib import Path
 
-Welcome. I'm Arsalan—a backend developer and senior technical writer focused on building intelligent systems, documenting complex tools, and turning raw ideas into working products.
+# Create the README.md content
+readme_content = """
+# cli-plus-sdk-docs
 
-## FOCUS
-- **AI & Automation Tools** (FastAPI, Python, CLI/SDK tools)
-- **Cloud-Native Architecture** (AWS, Terraform, CI/CD)
-- **Technical Documentation** (developer docs, API refs, internal tools)
+## Overview
 
-##  Projects
-- **NoodleCloud** – Multi-cloud testing API with performance/security validation.  
-- **cli-plus-sdk-docs** – A documentation prototype for internal CLI & SDK tools.  
-- **Scrapetitan** – AI web scraping + automation framework (WIP).  
+A professional-grade documentation project for a fictional CLI tool + Python SDK named `datacleaner`. This repo demonstrates how internal developer tools should be documented across:
 
-## Skills
-`Python` `FastAPI` `Git` `PostgreSQL` `Markdown` `CI/CD` `Boto3` `AWS SDK` `Documentation Systems` `REST APIs`
-
-## Links
-- GitHub Repos → [github.com/timedilationv2](https://github.com/timedilationv2)
-- Email → arsalan@timedilationv2.com
-- Portfolio & Blog → Coming soon
+- Command-line interface (CLI) usage  
+- Python SDK functionality  
+- Config files, logging, and error handling  
+- Markdown-based docs following best practices
 
 ---
-> _“Build once. Write well. Execute fast.”_
+
+## Features
+
+- /docs → Markdown-based documentation with usage examples  
+- /tests → Unit test structure for validating CLI behavior  
+- /cli → CLI tool logic written in Python  
+- /sdk → SDK modules with structured docstrings
+
+---
+
+## Getting Started
+
+1. Clone the repo:
+```bash
+git clone https://github.com/timedilationv2/cli-plus-sdk-docs.git
