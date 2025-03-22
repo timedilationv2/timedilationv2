@@ -2,98 +2,51 @@
 
 **Backend Developer | Senior Technical Writer | AI Enthusiast**
 
-"Breaking down a few stars, building galaxies anyway." ![Stars](https://img.shields.io/github/stars/timedilationv2/timedilationv2?style=for-the-badge)
+"Breaking down a few stars, building galaxies anyway."
+
+![Stars](https://img.shields.io/github/stars/timedilationv2/timedilationv2?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/timedilationv2/timedilationv2?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/timedilationv2/timedilationv2?style=for-the-badge)
 ![License](https://img.shields.io/github/license/timedilationv2/timedilationv2?style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-arsalankhan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arsalankhan)
 
+---
 
-<!-- PROJECT SHIELDS -->
-![Contributors](https://img.shields.io/github/contributors/timedilationv2/project-name.svg?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/timedilationv2/project-name.svg?style=for-the-badge)
-![Stargazers](https://img.shields.io/github/stars/timedilationv2/project-name.svg?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/timedilationv2/project-name.svg?style=for-the-badge)
-![License](https://img.shields.io/github/license/timedilationv2/project-name.svg?style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arsalankhan)
+```txt
+ABOUT ME
+---------
+I'm Arsalan—a systems thinker, strategist, and builder.
+My focus is execution, clarity, automation, and intelligent tools.
+
+I build tools that reduce friction and write docs that make them usable.
+CURRENT FOCUS
+--------------
+• Zleo AI        - Autonomous execution engine
+• Scrapetitan    - Web intelligence & automation system
+• NoodleCloud    - Multi-cloud validation API with CI/CD integration
+TECHNOLOGIES & TOOLS
+---------------------
+Languages     : Python, Bash, SQL
+Frameworks    : FastAPI, Django
+Databases     : PostgreSQL, MongoDB
+DevOps        : Docker, Kubernetes, Terraform
+Cloud         : AWS, GCP, Azure
+Docs & Other  : Markdown, DITA XML, GitHub Actions, Git
+Email    : arsalan@timedilationv2.com
+LinkedIn : linkedin.com/in/arsalan-khan
+"Build once. Write well. Execute fast."
 
 ---
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/timedilationv2/project-name">
-    <img src="docs/assets/logo.png" alt="Logo" width="100" height="100">
-  </a>
+### 🧠 Optional Visual Upgrade:
+If you want **actual black + neon green** terminal aesthetics:
+- Create a **GitHub Pages site** from your profile repo
+- Use a minimal theme like `minimal-mistakes` or a custom HTML/CSS page
+- Add terminal CSS:
 
-  <h3 align="center">Project Name</h3>
-
-  <p align="center">
-    One-liner about what this project solves.
-    <br />
-    <a href="https://github.com/timedilationv2/project-name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="#">View Demo</a>
-    ·
-    <a href="https://github.com/timedilationv2/project-name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/timedilationv2/project-name/issues">Request Feature</a>
-  </p>
-</p>
-
----
-
-## 📚 Table of Contents
-- [About the Project](#about-the-project)
-- [Built With](#built-with)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Documentation](#documentation)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-
-
----
-
-## 🧑‍💻 About Me
-
-I'm Arsalan—a systems thinker, strategist, and builder focused on execution, growth, and clarity. My work spans automation, AI, and intelligent systems that create long-term leverage.
-
----
-
-## 🚀 Current Focus
-
-- **Zleo AI**: Building an autonomous execution engine.&#8203;:contentReference[oaicite:0]{index=0}
-- **Scrapetitan**: :contentReference[oaicite:1]{index=1}&#8203;:contentReference[oaicite:2]{index=2}
-- **NoodleCloud**: :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
-
----
-
-## 🛠️ Technologies & Tools
-
-- **Languages**: :contentReference[oaicite:5]{index=5}&#8203;:contentReference[oaicite:6]{index=6}
-- **Frameworks**: :contentReference[oaicite:7]{index=7}&#8203;:contentReference[oaicite:8]{index=8}
-- **Databases**: :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
-- **DevOps**: :contentReference[oaicite:11]{index=11}&#8203;:contentReference[oaicite:12]{index=12}
-- **Cloud**: :contentReference[oaicite:13]{index=13}&#8203;:contentReference[oaicite:14]{index=14}
-- **Others**: :contentReference[oaicite:15]{index=15}&#8203;:contentReference[oaicite:16]{index=16}
-
----
-
-## 📈 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=timedilationv2&color=blue)
-
----
-
-## 📫 Contact
-
-- **Email**: arsalan@timedilationv2.com
-- **LinkedIn**: [linkedin.com/in/arsalan-khan](https://www.linkedin.com/in/arsalan-khan)
-
----
-
-> "Build once. Write well. Execute fast."
+```css
+body {
+  background-color: #000000;
+  color: #39ff14;  /* neon green */
+  font-family: monospace;
+}
