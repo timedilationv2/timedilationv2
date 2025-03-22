@@ -13,33 +13,40 @@
 
 ## About Me
 
-I'm Arsalan—a systems thinker, strategist, and builder.
-My focus is execution, clarity, automation, and intelligent tools.
+I'm Arsalan—a systems thinker, strategist, and builder with a passion for clean execution, clarity, and intelligent automation. I build tools that reduce friction and create clear, concise documentation to empower teams and streamline development processes.
 
-I build tools that reduce friction and write docs that make them usable.
+## Usage
 
-### Current Focus
-- **Zleo AI** - Autonomous execution engine
-- **Scrapetitan** - Web intelligence & automation system
-- **NoodleCloud** - Multi-cloud validation API with CI/CD integration
+This repository serves as a portfolio for my projects, technical writings, and code samples. Here, you'll find examples of how my tools and applications work, along with guidance on setting them up. For more detailed examples, please refer to the [Documentation](https://example.com).
 
-### Technologies & Tools
-- **Languages:** Python, Bash, SQL
-- **Frameworks:** FastAPI, Django
-- **Databases:** PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, Terraform
-- **Cloud:** AWS, GCP, Azure
-- **Docs & Other:** Markdown, DITA XML, GitHub Actions, Git
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-**Email:** arsalan@timedilationv2.com  
-**LinkedIn:** [linkedin.com/in/arsalan-khan](https://linkedin.com/in/arsalankhan)
+## Roadmap
 
-WA 2025
+- [x] Establish core backend services and automation tools.
+- [x] Create comprehensive documentation for each project.
+- [ ] Expand my portfolio with additional projects and demos.
+- [ ] Integrate advanced CI/CD pipelines.
+- [ ] Explore multi-language support for documentation.
 
-```css
-body {
-  background-color: #000000;
-  color: #39ff14;  /* neon green */
-  font-family: monospace;
-}
-```
+See the [open issues](https://github.com/your_username/your_repo/issues) for a full list of proposed features and enhancements.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Contributing
+
+Contributions are what make the open source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+If you have suggestions or improvements, please fork the repository and create a pull request, or open an issue with the "enhancement" tag.
+
+1. Fork the Repository
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## Todo List
+
+I maintain a list of future enhancements and ideas in the [issues section](https://github.com/your_username/your_repo/issues). Feel free to join the conversation and share your thoughts.
