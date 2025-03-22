@@ -1,58 +1,25 @@
-# Arsalan A. Khan
+# Arsalan A. Khan  
+**Backend Developer | Senior Technical Writer | AI Innovator**
 
-**Backend Developer | Senior Technical Writer | AI Enthusiast**
+Welcome. I'm Arsalan—a backend developer and senior technical writer focused on building intelligent systems, documenting complex tools, and turning raw ideas into working products.
 
-"Breaking down a few stars, building galaxies anyway."
+## FOCUS
+- **AI & Automation Tools** (FastAPI, Python, CLI/SDK tools)
+- **Cloud-Native Architecture** (AWS, Terraform, CI/CD)
+- **Technical Documentation** (developer docs, API refs, internal tools)
 
----
+##  Projects
+- **NoodleCloud** – Multi-cloud testing API with performance/security validation.  
+- **cli-plus-sdk-docs** – A documentation prototype for internal CLI & SDK tools.  
+- **Scrapetitan** – AI web scraping + automation framework (WIP).  
 
-```txt
-ABOUT ME
----------
-I'm Arsalan—a systems thinker, strategist, and builder focused on execution, growth, and clarity.  
-My work spans automation, AI, and intelligent systems that create long-term leverage.
-```
+## Skills
+`Python` `FastAPI` `Git` `PostgreSQL` `Markdown` `CI/CD` `Boto3` `AWS SDK` `Documentation Systems` `REST APIs`
 
----
-
-```txt
-CURRENT FOCUS
---------------
-• Zleo AI        - Autonomous execution engine  
-• Scrapetitan    - Web intelligence & automation framework  
-• NoodleCloud    - Multi-cloud validation API with CI/CD testing
-```
+## Links
+- GitHub Repos → [github.com/timedilationv2](https://github.com/timedilationv2)
+- Email → arsalan@timedilationv2.com
+- Portfolio & Blog → Coming soon
 
 ---
-
-```txt
-TECHNOLOGIES & TOOLS
----------------------
-Languages     : Python, Bash, SQL  
-Frameworks    : FastAPI, Django  
-Databases     : PostgreSQL, MongoDB  
-DevOps        : Docker, Kubernetes, Terraform  
-Cloud         : AWS, GCP, Azure  
-Docs & Other  : Markdown, DITA XML, GitHub Actions, Git
-```
-
----
-
-## GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=timedilationv2&color=blue)
-
----
-
-## Contact
-
-```txt
-Email    : arsalan@timedilationv2.com  
-LinkedIn : linkedin.com/in/arsalan-khan
-```
-
----
-
-```txt
-"Build once. Write well. Execute fast."
-```
+> _“Build once. Write well. Execute fast.”_
