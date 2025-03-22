@@ -2,7 +2,12 @@
 
 **Backend Developer | Senior Technical Writer | AI Enthusiast**
 
-"Breaking down a few stars, building galaxies anyway."
+"Breaking down a few stars, building galaxies anyway." ![Stars](https://img.shields.io/github/stars/timedilationv2/timedilationv2?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/timedilationv2/timedilationv2?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/timedilationv2/timedilationv2?style=for-the-badge)
+![License](https://img.shields.io/github/license/timedilationv2/timedilationv2?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arsalankhan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arsalankhan)
+
 
 <!-- PROJECT SHIELDS -->
 ![Contributors](https://img.shields.io/github/contributors/timedilationv2/project-name.svg?style=for-the-badge)
