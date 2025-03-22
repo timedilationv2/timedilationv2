@@ -4,6 +4,53 @@
 
 "Breaking down a few stars, building galaxies anyway."
 
+<!-- PROJECT SHIELDS -->
+![Contributors](https://img.shields.io/github/contributors/timedilationv2/project-name.svg?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/timedilationv2/project-name.svg?style=for-the-badge)
+![Stargazers](https://img.shields.io/github/stars/timedilationv2/project-name.svg?style=for-the-badge)
+![Issues](https://img.shields.io/github/issues/timedilationv2/project-name.svg?style=for-the-badge)
+![License](https://img.shields.io/github/license/timedilationv2/project-name.svg?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arsalankhan)
+
+---
+
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/timedilationv2/project-name">
+    <img src="docs/assets/logo.png" alt="Logo" width="100" height="100">
+  </a>
+
+  <h3 align="center">Project Name</h3>
+
+  <p align="center">
+    One-liner about what this project solves.
+    <br />
+    <a href="https://github.com/timedilationv2/project-name"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="#">View Demo</a>
+    ·
+    <a href="https://github.com/timedilationv2/project-name/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/timedilationv2/project-name/issues">Request Feature</a>
+  </p>
+</p>
+
+---
+
+## 📚 Table of Contents
+- [About the Project](#about-the-project)
+- [Built With](#built-with)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Documentation](#documentation)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+
+
 ---
 
 ## 🧑‍💻 About Me
