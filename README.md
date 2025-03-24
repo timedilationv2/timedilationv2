@@ -14,37 +14,53 @@
 
 Hey there! I'm Arsalan—a systems thinker, strategist, and creative builder with a relentless passion for clean execution, clarity, and intelligent automation. I thrive on transforming complex challenges into streamlined solutions. My work revolves around crafting smart tools that reduce friction, empower teams, and elevate productivity.
 
-I blend technical acumen with a knack for storytelling, ensuring every piece of documentation not only informs but also inspires. Whether I'm writing code, designing automation workflows, or authoring detailed technical guides, my goal is to make technology accessible and enjoyable.
+I blend technical acumen with a flair for storytelling, ensuring every piece of documentation not only informs but also inspires. Whether I'm coding, designing automation workflows, or writing comprehensive technical guides, my goal is to make technology accessible and enjoyable.
 
-When I'm not immersed in code or crafting clear documentation, you can find me exploring new tech trends, experimenting with creative projects, or engaging with the developer community to share ideas and insights.
+When I'm not immersed in tech, you'll find me exploring the latest innovations, experimenting with new projects, or engaging with the developer community to share ideas and insights.
 
 ## Usage
 
-This repository is a portfolio of my projects, technical writings, and code samples. Here you'll discover examples of innovative tools, practical applications, and comprehensive documentation that showcase how I merge creativity with technical excellence. For an in-depth look at my work, please refer to the [Documentation](https://example.com).
+This repository serves as a portfolio of my projects, technical writings, and code samples. Here, you'll find examples of innovative tools, practical applications, and detailed documentation that demonstrate how I merge creativity with technical excellence. For an in-depth look at my work, please refer to the [Documentation](https://example.com).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Roadmap
+## Roadmap (Dark Mode Friendly)
 
-| Status | Goal                                      |
-| ------ | ----------------------------------------- |
-| [x]    | Establish core backend services and automation tools. |
-| [x]    | Create comprehensive documentation for each project.  |
-| [ ]    | Expand my portfolio with additional projects and demos. |
-| [ ]    | Integrate advanced CI/CD pipelines.                    |
-| [ ]    | Explore multi-language support for documentation.      |
-
-See the [open issues](https://github.com/your_username/your_repo/issues) for a full list of proposed features and enhancements.
+<div align="center">
+  <table style="width:90%; border-collapse: collapse; background-color: #2d2d2d; color: #f8f8f2; border: 1px solid #444;">
+    <thead>
+      <tr>
+        <th style="padding: 8px; border: 1px solid #444;">Status</th>
+        <th style="padding: 8px; border: 1px solid #444;">Goal</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #444;">✔️</td>
+        <td style="padding: 8px; border: 1px solid #444;">Establish core backend services and automation tools.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #444;">✔️</td>
+        <td style="padding: 8px; border: 1px solid #444;">Create comprehensive documentation for each project.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #444;">🚧</td>
+        <td style="padding: 8px; border: 1px solid #444;">Expand my portfolio with additional projects and demos.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #444;">🚧</td>
+        <td style="padding: 8px; border: 1px solid #444;">Integrate advanced CI/CD pipelines.</td>
+      </tr>
+      <tr>
+        <td style="padding: 8px; border: 1px solid #444;">🚧</td>
+        <td style="padding: 8px; border: 1px solid #444;">Explore multi-language support for documentation.</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Contributing
 
-Contributions are what make the open source community a vibrant space to learn, inspire, and create. Every contribution you make is **greatly appreciated**.
-
-If you have suggestions, improvements, or ideas, please fork the repository and create a pull request, or open an issue tagged as "enhancement." Here’s how to get started:
-
-1. Fork the Repository.
-2. Create your Feature Branch:
-   ```bash
-   git checkout -b feature/AmazingFeature
+Contributions make the open source community
