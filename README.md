@@ -67,3 +67,16 @@
 </div>
 
 ## 📇 Contact Card
+
+
+---
+
+### 🔹 SECTION 6: Footer
+
+```markdown
+---
+
+<p align="center" style="color: #999;">
+  Arsalan Khan · 2025 · WA
+</p>
+
