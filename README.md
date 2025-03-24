@@ -1,8 +1,17 @@
 # Arsalan A. Khan | @timedilationV2
 
-**Full Stack Developer | Senior Technical Writer | Super_Nerd 🤖**
+**Full Stack Dev | Senior Tech Writer | Super_Nerd 🤖**
 
 "You gotta smash a few old stars to make a new galaxy. (Nerd_quote1)."
+
+```diff
++ Hey there, I am our salon. I'm a backend developer.
++ I also love front-end and design.
++ I'm a full stack, self-made engineer.
++ And yes, I'm a senior technical writer.
++ I have deep knowledge about full stack, cloud, technical documentation, Confluence, and more.
++ You know the deal—let's jam!
+
 
 ![Stars](https://img.shields.io/github/stars/timedilationv2/timedilationv2?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/timedilationv2/timedilationv2?style=for-the-badge)
@@ -12,7 +21,7 @@
 
 ## About Me
 
-Hey there! I'm Arsalan—a systems thinker, strategist, and creative builder with a relentless passion for clean execution, clarity, and intelligent automation. I thrive on transforming complex challenges into streamlined solutions that empower teams and elevate productivity.
+Hey there, I am our salon. I'm a backend developer. I also love front and design. I'm a full stack sort of an self-made engineer. If you can call me that I'm also senior technical writer. I have knowledge about full stock, cloud, technical, documentation, confluence, etc. etc. you know the deal let's jam.
 
 I blend technical acumen with a flair for storytelling, ensuring that every piece of documentation not only informs but also inspires. Whether I'm coding innovative tools or crafting detailed technical guides, my goal is to make technology accessible, enjoyable, and even a little bit magical.
 
