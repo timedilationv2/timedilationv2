@@ -21,7 +21,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-```diff
+
 + Hey there, I’m Arsalan. A backend developer with front-end instincts.
 + I'm a full-stack, self-made engineer with a taste for design systems and clear architecture.
 + As a senior technical writer, I document high-level systems, developer guides, and cloud infrastructure.
@@ -31,63 +31,39 @@
 
 ---
 
-### 🔹 SECTION 4: Roadmap (Dark Themed - Table Style)
-
-```markdown
 ## 📍 Roadmap
 
 <div align="center">
-  <table style="width:95%; background-color:#1e1e1e; color:#e0e0e0; border-collapse:collapse; font-family: monospace;">
-    <thead>
-      <tr>
-        <th style="border:1px solid #333; padding:10px;">Status</th>
-        <th style="border:1px solid #333; padding:10px;">Milestone</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="border:1px solid #333; padding:10px;">🟩</td>
-        <td style="border:1px solid #333; padding:10px;">Established backend automation & service design.</td>
-      </tr>
-      <tr>
-        <td style="border:1px solid #333; padding:10px;">🟩</td>
-        <td style="border:1px solid #333; padding:10px;">Completed documentation pipelines & publishing frameworks.</td>
-      </tr>
-      <tr>
-        <td style="border:1px solid #333; padding:10px;">🟨</td>
-        <td style="border:1px solid #333; padding:10px;">Expanding portfolio with multi-cloud integration demos.</td>
-      </tr>
-      <tr>
-        <td style="border:1px solid #333; padding:10px;">🟨</td>
-        <td style="border:1px solid #333; padding:10px;">Advanced CI/CD infrastructure with GitHub Actions & Terraform.</td>
-      </tr>
-      <tr>
-        <td style="border:1px solid #333; padding:10px;">⬜</td>
-        <td style="border:1px solid #333; padding:10px;">Multilingual documentation pipelines (EN + DEV Docs).</td>
-      </tr>
-    </tbody>
-  </table>
+    <table style="width:95%; background-color:#1e1e1e; color:#e0e0e0; border-collapse:collapse; font-family: monospace;">
+        <thead>
+            <tr>
+                <th style="border:1px solid #333; padding:10px;">Status</th>
+                <th style="border:1px solid #333; padding:10px;">Milestone</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td style="border:1px solid #333; padding:10px;">🟩</td>
+                <td style="border:1px solid #333; padding:10px;">Established backend automation & service design.</td>
+            </tr>
+            <tr>
+                <td style="border:1px solid #333; padding:10px;">🟩</td>
+                <td style="border:1px solid #333; padding:10px;">Completed documentation pipelines & publishing frameworks.</td>
+            </tr>
+            <tr>
+                <td style="border:1px solid #333; padding:10px;">🟨</td>
+                <td style="border:1px solid #333; padding:10px;">Expanding portfolio with multi-cloud integration demos.</td>
+            </tr>
+            <tr>
+                <td style="border:1px solid #333; padding:10px;">🟨</td>
+                <td style="border:1px solid #333; padding:10px;">Advanced CI/CD infrastructure with GitHub Actions & Terraform.</td>
+            </tr>
+            <tr>
+                <td style="border:1px solid #333; padding:10px;">⬜</td>
+                <td style="border:1px solid #333; padding:10px;">Multilingual documentation pipelines (EN + DEV Docs).</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 ## 📇 Contact Card
-
-```vcard
-BEGIN:VCARD
-VERSION:3.0
-FN:Arsalan Khan
-TITLE:Full Stack Developer & Senior Technical Writer
-EMAIL:arsalan@example.com
-URL:https://github.com/timedilationv2
-END:VCARD
-
----
-
-### 🔹 SECTION 6: Footer
-
-```markdown
----
-
-<p align="center" style="color: #999;">
-  Arsalan Khan · 2025 · WA
-</p>
-
