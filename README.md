@@ -114,8 +114,8 @@
                 <th style="border:1px solid #333; padding:10px;">Platform</th>
                 <th style="border:1px solid #333; padding:10px;">Link</th>
             </tr>
-        </thead>
-        <tbody>
+                </thead>
+                <tbody>
             <tr>
                 <td style="border:1px solid #333; padding:10px;">LinkedIn</td>
                 <td style="border:1px solid #333; padding:10px;"><a href="https://linkedin.com/in/arsalankhan" style="color:#0078D4;">Arsalan Khan</a></td>
@@ -184,4 +184,4 @@
     </table>
 </div>
 
-## 📇 Contact Card
+
