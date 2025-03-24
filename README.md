@@ -1,90 +1,93 @@
-# Arsalan A. Khan | @timedilationV2
+# Arsalan A. Khan | @timedilationv2
 
-**Full Stack Developer | Senior Technical Writer | Super_Nerd 🤖**
+**Full Stack Developer | Senior Technical Writer | Systems Thinker**
 
 "Breaking down a few stars, building galaxies anyway."
 
-![Stars](https://img.shields.io/github/stars/timedilationv2/timedilationv2?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/timedilationv2/timedilationv2?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/timedilationv2/timedilationv2?style=for-the-badge)
-![License](https://img.shields.io/github/license/timedilationv2/timedilationv2?style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arsalankhan-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/arsalankhan)
+![GitHub Stars](https://img.shields.io/github/stars/timedilationv2/timedilationv2?style=flat-square&color=blue)
+![GitHub Forks](https://img.shields.io/github/forks/timedilationv2/timedilationv2?style=flat-square&color=orange)
+![GitHub Issues](https://img.shields.io/github/issues/timedilationv2/timedilationv2?style=flat-square&color=red)
+![GitHub License](https://img.shields.io/github/license/timedilationv2/timedilationv2?style=flat-square&color=gray)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsalan_Khan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arsalankhan)
+## 🚀 Tech Ecosystem
 
-# About Me
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+```diff
++ Hey there, I’m Arsalan. A backend developer with front-end instincts.
++ I'm a full-stack, self-made engineer with a taste for design systems and clear architecture.
++ As a senior technical writer, I document high-level systems, developer guides, and cloud infrastructure.
++ I speak the language of code and clarity — from Git to Confluence, from backend ops to API references.
++ I build tools that simplify, docs that scale, and systems that last.
++ Let's jam with code [<.>] 
 
-<div style="font-family: 'Courier New', monospace; background-color: #282c34; color: #abb2bf; padding: 20px; border-radius: 8px; line-height: 1.6;">
-  <p>
-    <strong>Hey there!</strong> I am Arsalan – a passionate backend developer with a keen love for front-end design and innovation.
-  </p>
-  <p>
-    I'm a full-stack, self-made engineer, and I'm proud to be a 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Emoji_u1f913.svg/1200px-Emoji_u1f913.svg.png" alt="Super Nerd" style="width:24px; vertical-align:middle; margin-right:4px;">
-    <strong>Super_Nerd</strong>!
-  </p>
-  <p>
-    As a senior technical writer, I blend deep technical expertise in full-stack development, cloud computing, and technical documentation with a flair for creative storytelling. I strive to empower teams and deliver clear, engaging documentation that inspires innovation. 
-I blend technical acumen with a flair for storytelling, ensuring that every piece of documentation not only informs but also inspires. Whether I'm coding innovative tools or crafting detailed technical guides, my goal is to make technology accessible, enjoyable, and even a little bit magical.
+---
 
-When I'm not deep in code or writing, you'll find me exploring emerging tech trends, experimenting with creative projects, or engaging with the developer community to spark new ideas.
-  </p>
-  <p>
-    Let's jam, innovate, and build something extraordinary together! 
-  </p>
-</div>
+### 🔹 SECTION 4: Roadmap (Dark Themed - Table Style)
 
-
-
-## Usage
-
-This repository is a portfolio of my projects, technical writings, and code samples. Here, you'll find examples of innovative tools, practical applications, and detailed documentation that demonstrate how I merge creativity with technical excellence. For an in-depth look at my work, please refer to the [Documentation](https://example.com).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Roadmap (Dark Mode Friendly)
+```markdown
+## 📍 Roadmap
 
 <div align="center">
-  <table style="width:90%; border-collapse: collapse; background-color: #2d2d2d; color: #f8f8f2; border: 1px solid #444;">
+  <table style="width:95%; background-color:#1e1e1e; color:#e0e0e0; border-collapse:collapse; font-family: monospace;">
     <thead>
       <tr>
-        <th style="padding: 8px; border: 1px solid #444;">Status</th>
-        <th style="padding: 8px; border: 1px solid #444;">Goal</th>
+        <th style="border:1px solid #333; padding:10px;">Status</th>
+        <th style="border:1px solid #333; padding:10px;">Milestone</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td style="padding: 8px; border: 1px solid #444;">🟢</td>
-        <td style="padding: 8px; border: 1px solid #444;">Establish core backend services and automation tools.</td>
+        <td style="border:1px solid #333; padding:10px;">🟩</td>
+        <td style="border:1px solid #333; padding:10px;">Established backend automation & service design.</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #444;">🟢</td>
-        <td style="padding: 8px; border: 1px solid #444;">Create comprehensive documentation for each project.</td>
+        <td style="border:1px solid #333; padding:10px;">🟩</td>
+        <td style="border:1px solid #333; padding:10px;">Completed documentation pipelines & publishing frameworks.</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #444;">💚</td>
-        <td style="padding: 8px; border: 1px solid #444;">Expand my portfolio with additional projects and demos.</td>
+        <td style="border:1px solid #333; padding:10px;">🟨</td>
+        <td style="border:1px solid #333; padding:10px;">Expanding portfolio with multi-cloud integration demos.</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #444;">💚</td>
-        <td style="padding: 8px; border: 1px solid #444;">Integrate advanced CI/CD pipelines.</td>
+        <td style="border:1px solid #333; padding:10px;">🟨</td>
+        <td style="border:1px solid #333; padding:10px;">Advanced CI/CD infrastructure with GitHub Actions & Terraform.</td>
       </tr>
       <tr>
-        <td style="padding: 8px; border: 1px solid #444;">💚</td>
-        <td style="padding: 8px; border: 1px solid #444;">Explore multi-language support for documentation.</td>
+        <td style="border:1px solid #333; padding:10px;">⬜</td>
+        <td style="border:1px solid #333; padding:10px;">Multilingual documentation pipelines (EN + DEV Docs).</td>
       </tr>
     </tbody>
   </table>
 </div>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## 📇 Contact Card
 
-## Contributing
+```vcard
+BEGIN:VCARD
+VERSION:3.0
+FN:Arsalan Khan
+TITLE:Full Stack Developer & Senior Technical Writer
+EMAIL:arsalan@example.com
+URL:https://github.com/timedilationv2
+END:VCARD
 
-Contributions make the open source community a vibrant space to learn, inspire, and create. Every contribution you make is **greatly appreciated**—so bring your quirks and creativity!
+---
 
-If you have suggestions, improvements, or even a funny idea, please fork the repository and create a pull request, or open an issue tagged as "enhancement". Here’s how to get started:
+### 🔹 SECTION 6: Footer
 
-1. Fork the Repository.
-2. Create your Feature Branch:
-   ```bash
-   git checkout -b feature/AmazingFeature
+```markdown
+---
+
+<p align="center" style="color: #999;">
+  Arsalan Khan · 2025 · WA
+</p>
 
