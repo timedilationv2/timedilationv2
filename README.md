@@ -1,6 +1,6 @@
 # Arsalan A. Khan | @timedilationv2
 
-**Full Stack Developer | Senior Technical Writer | Systems Thinker**
+** dev-full-stack | seniortechnicalwriter | supernerd
 
 "Breaking down a few stars, building galaxies anyway."
 
