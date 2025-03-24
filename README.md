@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Senior Technical Writer | Super_Nerd 🤖**
 
-"Breaking down a few stars, building galaxies anyway."
+"Smashin' reduntant matter; building abudant stars (Nerd_Rhyme1)."
 
 ![Stars](https://img.shields.io/github/stars/timedilationv2/timedilationv2?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/timedilationv2/timedilationv2?style=for-the-badge)
@@ -71,3 +71,5 @@ If you have suggestions, improvements, or even a funny idea, please fork the rep
 2. Create your Feature Branch:
    ```bash
    git checkout -b feature/AmazingFeature
+
+Arsalan Khan | 2026
