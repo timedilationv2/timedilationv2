@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Senior Technical Writer | Super_Nerd 🤖**
 
-"Smashin' reduntant matter; building abudant stars (Nerd_Rhyme1)."
+"You gotta smash a few old stars to make a new galaxy. (Nerd_quote1)."
 
 ![Stars](https://img.shields.io/github/stars/timedilationv2/timedilationv2?style=for-the-badge)
 ![Forks](https://img.shields.io/github/forks/timedilationv2/timedilationv2?style=for-the-badge)
