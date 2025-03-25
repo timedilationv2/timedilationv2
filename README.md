@@ -1,3 +1,14 @@
+# Arsalan A. Khan | @timedilationv2
+
+** Full Stack Developer | Senior Technical Writer | nerd **
+
+
++ Hey there, I’m Arsalan. A backend developer with front-end instincts.
++ I'm a full-stack, self-made engineer with a taste for design systems and clear architecture.
++ As a senior technical writer, I document high-level systems, developer guides, and cloud infrastructure.
++ I speak the language of code and clarity — from Git to Confluence, from backend ops to API references.
+
+
 ## 🚧 temp Notice: 
 
 > **Note:** The repository is being migrated and is
@@ -9,11 +20,12 @@
 
 ## 📂 Repos
 
+
 - [Main Repository](https://github.com/timedilationv2/timedilationv2)
 - [Project 1](https://github.com/timedilationv2/project1)
 - [Project 2](https://github.com/timedilationv2/project2)
 
-**Full Stack Developer | Senior Technical Writer | nerd **
+** Full Stack Developer | Senior Technical Writer | nerd **
 
 "Breaking down a few stars, building galaxies anyway."
 
@@ -22,7 +34,7 @@
 ![GitHub Issues](https://img.shields.io/github/issues/timedilationv2/timedilationv2?style=flat-square&color=red)
 ![GitHub License](https://img.shields.io/github/license/timedilationv2/timedilationv2?style=flat-square&color=gray)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsalan_Khan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arsalankhan)
-## sTack :-
+## Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -35,11 +47,8 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-+ Hey there, I’m Arsalan. A backend developer with front-end instincts.
-+ I'm a full-stack, self-made engineer with a taste for design systems and clear architecture.
-+ As a senior technical writer, I document high-level systems, developer guides, and cloud infrastructure.
-+ I speak the language of code and clarity — from Git to Confluence, from backend ops to API references.
-# Arsalan A. Khan | @timedilationv2
+
+
 
 <div align="center">
     <a href="#dev" style="text-decoration:none;">
