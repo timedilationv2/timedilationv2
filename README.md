@@ -1,4 +1,16 @@
-# Arsalan A. Khan | @timedilationv2
+---
+
+## 🚧 Repository Notice
+
+> **Note:** The repository is being migrated and is currently under construction to update patches and restructuring. I felt like my repos need to pivot, patch, and update with generative AI and other emerging tech patched in packages, etc.
+
+---
+
+## 📂 Repositories
+
+- [Main Repository](https://github.com/timedilationv2/timedilationv2)
+- [Project 1](https://github.com/timedilationv2/project1)
+- [Project 2](https://github.com/timedilationv2/project2)
 
 **Full Stack Developer | Senior Technical Writer | Systems Thinker**
 
