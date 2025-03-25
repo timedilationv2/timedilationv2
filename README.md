@@ -1,4 +1,4 @@
-## 🚧 Repository Notice
+## 🚧 temp Notice: 
 
 > **Note:** The repository is being migrated and is
  currently under construction to update patches and restructuring. 
@@ -7,7 +7,7 @@
 
 ---
 
-## 📂 Repositories
+## 📂 Repos
 
 - [Main Repository](https://github.com/timedilationv2/timedilationv2)
 - [Project 1](https://github.com/timedilationv2/project1)
@@ -22,7 +22,7 @@
 ![GitHub Issues](https://img.shields.io/github/issues/timedilationv2/timedilationv2?style=flat-square&color=red)
 ![GitHub License](https://img.shields.io/github/license/timedilationv2/timedilationv2?style=flat-square&color=gray)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsalan_Khan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arsalankhan)
-## 🚀 Tech Ecosystem
+## sTack :-
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -61,7 +61,7 @@
 ![GitHub License](https://img.shields.io/github/license/timedilationv2/timedilationv2?style=flat-square&color=gray)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsalan_Khan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arsalankhan)
 
-## A little Tech Roadmap for ya... 
+## 
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
@@ -83,7 +83,7 @@
 
 ---
 
-## 📍 Roadmap
+## Roadmap
 
 <div align="center">
     <table style="width:95%; background-color:#1e1e1e; color:#e0e0e0; border-collapse:collapse; font-family: monospace;">
@@ -118,7 +118,7 @@
     </table>
 </div>
 
-## 📇 Contact Card
+## 📇 Contact 
 
 <div align="center">
     <table style="width:95%; background-color:#1e1e1e; color:#e0e0e0; border-collapse:collapse; font-family: monospace;">
