@@ -150,17 +150,6 @@
         </tbody>
     </table>
 </div>
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn--Profile-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/timedilation)
-
-<img src="linkedin-qr.png" alt="LinkedIn QR Code" width="150" />
-
-
-git add README.md assets/LinkedIn_QR.png
-git commit -m "Add LinkedIn QR code to README"
-git push origin main
-
 
 ---
 
