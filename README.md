@@ -1,39 +1,30 @@
 # Arsalan A. Khan | @timedilationv2
 
-** Full Stack Developer | Senior Technical Writer | nerd **
-
+**Full Stack Developer | Senior Technical Writer | Nerd**
 
 + Hey there, I’m Arsalan. A backend developer with front-end instincts.
 + I'm a full-stack, self-made engineer with a taste for design systems and clear architecture.
 + As a senior technical writer, I document high-level systems, developer guides, and cloud infrastructure.
 + I speak the language of code and clarity — from Git to Confluence, from backend ops to API references.
++ I build tools that simplify, docs that scale, and systems that last.
++ Let's jam with code [<.>]
 
+---
 
-## 🚧 temp Notice: 
+## 🚧 Notice
 
-> **Note:** The repository is being migrated and is
- currently under construction to update patches and restructuring. 
- I felt like my repos need to pivot, patch, and update with generative AI
- and other emerging tech patched in packages, etc.
+> **Note:** The repository is being migrated and is currently under construction to update patches and restructuring. I felt like my repos need to pivot, patch, and update with generative AI and other emerging tech patched in packages, etc.
 
 ---
 
 ## 📂 Repos
 
-
 - [Main Repository](https://github.com/timedilationv2/timedilationv2)
 - [Project 1](https://github.com/timedilationv2/project1)
 - [Project 2](https://github.com/timedilationv2/project2)
 
-** Full Stack Developer | Senior Technical Writer | nerd **
+---
 
-"Breaking down a few stars, building galaxies anyway."
-
-![GitHub Stars](https://img.shields.io/github/stars/timedilationv2/timedilationv2?style=flat-square&color=blue)
-![GitHub Forks](https://img.shields.io/github/forks/timedilationv2/timedilationv2?style=flat-square&color=orange)
-![GitHub Issues](https://img.shields.io/github/issues/timedilationv2/timedilationv2?style=flat-square&color=red)
-![GitHub License](https://img.shields.io/github/license/timedilationv2/timedilationv2?style=flat-square&color=gray)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsalan_Khan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arsalankhan)
 ## Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
@@ -46,49 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-
-
-
-<div align="center">
-    <a href="#dev" style="text-decoration:none;">
-        <span style="display:inline-block; padding:10px 20px; background-color:#0078D4; color:white; border-radius:5px;">Dev</span>
-    </a>
-    <a href="#senior-technical-writer" style="text-decoration:none;">
-        <span style="display:inline-block; padding:10px 20px; background-color:#FF6F00; color:white; border-radius:5px;">Senior Technical Writer</span>
-    </a>
-    <a href="#super-nerd" style="text-decoration:none;">
-        <span style="display:inline-block; padding:10px 20px; background-color:#412991; color:white; border-radius:5px;">Super Nerd</span>
-    </a>
-</div>
-
-"Breaking down a few stars, building galaxies anyway."
-
-![GitHub Stars](https://img.shields.io/github/stars/timedilationv2/timedilationv2?style=flat-square&color=blue)
-![GitHub Forks](https://img.shields.io/github/forks/timedilationv2/timedilationv2?style=flat-square&color=orange)
-![GitHub Issues](https://img.shields.io/github/issues/timedilationv2/timedilationv2?style=flat-square&color=red)
-![GitHub License](https://img.shields.io/github/license/timedilationv2/timedilationv2?style=flat-square&color=gray)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsalan_Khan-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/arsalankhan)
-
-## 
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-+ Hey there, I’m Arsalan. A backend developer with front-end instincts.
-+ I'm a full-stack, self-made engineer with a taste for design systems and clear architecture.
-+ As a senior technical writer, I document high-level systems, developer guides, and cloud infrastructure.
-+ I speak the language of code and clarity — from Git to Confluence, from backend ops to API references.
-+ I build tools that simplify, docs that scale, and systems that last.
-+ Let's jam with code [<.>] 
 
 ---
 
@@ -127,7 +75,9 @@
     </table>
 </div>
 
-## 📇 Contact 
+---
+
+## 📇 Contact
 
 <div align="center">
     <table style="width:95%; background-color:#1e1e1e; color:#e0e0e0; border-collapse:collapse; font-family: monospace;">
@@ -136,8 +86,8 @@
                 <th style="border:1px solid #333; padding:10px;">Platform</th>
                 <th style="border:1px solid #333; padding:10px;">Link</th>
             </tr>
-                </thead>
-                <tbody>
+        </thead>
+        <tbody>
             <tr>
                 <td style="border:1px solid #333; padding:10px;">LinkedIn</td>
                 <td style="border:1px solid #333; padding:10px;"><a href="https://linkedin.com/in/arsalankhan" style="color:#0078D4;">Arsalan Khan</a></td>
@@ -167,6 +117,3 @@
 <p align="center">
   <a href="#top" style="color:#0078D4;">Back to top</a>
 </p>
-+ Let's jam with code [<.>] 
-
----
