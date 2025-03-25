@@ -15,7 +15,7 @@
 - [Project 1](https://github.com/timedilationv2/project1)
 - [Project 2](https://github.com/timedilationv2/project2)
 
-**Full Stack Developer | Senior Technical Writer | Systems Thinker**
+**Full Stack Developer | Senior Technical Writer | nerd **
 
 "Breaking down a few stars, building galaxies anyway."
 
@@ -163,40 +163,3 @@
 + Let's jam with code [<.>] 
 
 ---
-
-## 📍 Roadmap
-
-<div align="center">
-    <table style="width:95%; background-color:#1e1e1e; color:#e0e0e0; border-collapse:collapse; font-family: monospace;">
-        <thead>
-            <tr>
-                <th style="border:1px solid #333; padding:10px;">Status</th>
-                <th style="border:1px solid #333; padding:10px;">Milestone</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td style="border:1px solid #333; padding:10px;">🟩</td>
-                <td style="border:1px solid #333; padding:10px;">Established backend automation & service design.</td>
-            </tr>
-            <tr>
-                <td style="border:1px solid #333; padding:10px;">🟩</td>
-                <td style="border:1px solid #333; padding:10px;">Completed documentation pipelines & publishing frameworks.</td>
-            </tr>
-            <tr>
-                <td style="border:1px solid #333; padding:10px;">🟨</td>
-                <td style="border:1px solid #333; padding:10px;">Expanding portfolio with multi-cloud integration demos.</td>
-            </tr>
-            <tr>
-                <td style="border:1px solid #333; padding:10px;">🟨</td>
-                <td style="border:1px solid #333; padding:10px;">Advanced CI/CD infrastructure with GitHub Actions & Terraform.</td>
-            </tr>
-            <tr>
-                <td style="border:1px solid #333; padding:10px;">⬜</td>
-                <td style="border:1px solid #333; padding:10px;">Multilingual documentation pipelines (EN + DEV Docs).</td>
-            </tr>
-        </tbody>
-    </table>
-</div>
-
-
