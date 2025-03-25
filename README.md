@@ -151,6 +151,17 @@
     </table>
 </div>
 
+## Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arsalan--khan-blue?logo=linkedin)](https://www.linkedin.com/in/timedilation)
+
+<img src="assets/LinkedIn_QR.png" alt="LinkedIn QR Code" width="150" />
+
+git add README.md assets/LinkedIn_QR.png
+git commit -m "Add LinkedIn QR code to README"
+git push origin main
+
+
 ---
 
 <p align="center" style="color: #999;">
