@@ -4,7 +4,7 @@
 
 > **Note:** The repository is being migrated and is
  currently under construction to update patches and restructuring. 
-I felt like my repos need to pivot, patch, and update with generative AI
+ I felt like my repos need to pivot, patch, and update with generative AI
  and other emerging tech patched in packages, etc.
 
 ---
