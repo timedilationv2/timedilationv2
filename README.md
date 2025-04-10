@@ -1,17 +1,17 @@
 # Arsalan Khan
 
-I design modular execution systems focused on functionality, automation, and efficiency.
+I build modular execution systems with a focus on terminal-first interfaces, backend automation, and structured documentation.
 
-My work emphasizes terminal-first interfaces, backend logic, and structured documentation.
+My work centers on clarity, repeatability, and performance—designed for environments where functionality matters more than presentation.
 
-### Current Projects
-- [terminal-zero](https://github.com/timedilationv2/terminal-zero): Terminal-based financial and news data integration system using FastAPI, RSS, GPT, and market data APIs.
-- [datacleaner-cli-sdk](https://github.com/timedilationv2/cli-plus-sdk-docs): Python CLI tool and SDK for efficient data cleaning, CSV/JSON preprocessing, and workflow automation.
-- [nadoxdocumentation](https://github.com/timedilationv2/nadoxdocumentation): Structured documentation built on MkDocs, supporting technical writing and development workflows.
-- [samplesite](https://github.com/timedilationv2/samplesite): Template for static sites and documentation, designed for rapid deployment and scalability.
+### Selected Projects
+- [terminal-zero](https://github.com/timedilationv2/terminal-zero) — A terminal-native financial and news intelligence tool built with FastAPI, RSS, GPT, and market data feeds.
+- [datacleaner-cli-sdk](https://github.com/timedilationv2/cli-plus-sdk-docs) — A CLI tool and Python SDK for cleaning and preprocessing CSV/JSON datasets in automation pipelines.
+- [nadoxdocumentation](https://github.com/timedilationv2/nadoxdocumentation) — A documentation system using MkDocs for structured, versioned technical writing.
+- [samplesite](https://github.com/timedilationv2/samplesite) — A static documentation framework, built for rapid deployment of docs and toolkits.
 
-### Approach
-I develop tools as practical solutions to clearly defined problems. Each repository represents active, evolving work—not demonstrations or theoretical concepts.
+### Working Style
+All codebases are active, evolving tools built to solve specific problems. No demos. No abstractions without purpose.
 
-### Connect
-- [LinkedIn](https://www.linkedin.com/in/arsalankhan-ai)
+### Contact
+[LinkedIn](https://www.linkedin.com/in/arsalankhan-ai)
