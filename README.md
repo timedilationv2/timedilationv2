@@ -1,17 +1,32 @@
-# Arsalan Khan
+# Arsalan A. Khan | @timedilationv2
 
-I build modular execution systems with a focus on terminal-first interfaces, backend automation, and structured documentation.
+**Systems Architect | Full-Stack Developer | Technical Writer**
 
-My work centers on clarity, repeatability, and performance—designed for environments where functionality matters more than presentation.
+I design execution systems that integrate backend automation, structured documentation, and developer-first tooling.
 
-### Selected Projects
-- [terminal-zero](https://github.com/timedilationv2/terminal-zero) — A terminal-native financial and news intelligence tool built with FastAPI, RSS, GPT, and market data feeds.
-- [datacleaner-cli-sdk](https://github.com/timedilationv2/cli-plus-sdk-docs) — A CLI tool and Python SDK for cleaning and preprocessing CSV/JSON datasets in automation pipelines.
-- [nadoxdocumentation](https://github.com/timedilationv2/nadoxdocumentation) — A documentation system using MkDocs for structured, versioned technical writing.
-- [samplesite](https://github.com/timedilationv2/samplesite) — A static documentation framework, built for rapid deployment of docs and toolkits.
+My background combines hands-on engineering with systems-level documentation. I build backend services, architect DevOps pipelines, and create documentation that scales—from infrastructure to API references.
 
-### Working Style
-All codebases are active, evolving tools built to solve specific problems. No demos. No abstractions without purpose.
+Tools are only as valuable as they are usable. I work at the intersection of clarity, performance, and real-world deployment.
 
-### Contact
-[LinkedIn](https://www.linkedin.com/in/arsalankhan-ai)
+---
+
+## Currently Migrating
+
+This repository is under active restructuring.  
+Ongoing updates include modular packages for generative AI, automation workflows, and improved architecture across repositories.
+
+---
+
+## Featured Projects
+- **[terminal-zero](https://github.com/timedilationv2/terminal-zero)** — Terminal-based financial and market intelligence tool built with FastAPI, RSS, GPT, and real-time feeds.
+- **[datacleaner-cli-sdk](https://github.com/timedilationv2/cli-plus-sdk-docs)** — Python CLI + SDK tool for dataset cleaning and automation.
+- **[nadoxdocumentation](https://github.com/timedilationv2/nadoxdocumentation)** — Structured MkDocs documentation system for technical writing pipelines.
+- **[samplesite](https://github.com/timedilationv2/samplesite)** — Static site framework for deploying documentation and tools.
+
+---
+
+## Stack
+
+```text
+AWS · Azure · GCP · Docker · Kubernetes · GitHub Actions
+FastAPI · Python · Markdown · Linux · Terraform · OpenAI · CI/CD
