@@ -29,4 +29,20 @@ Rapid prototype emphasizing responsive design and modern frontend practices.
 ### [PRJKT DITA](https://github.com/timedilationv2/PRJKT_DITA)
 An experimental data visualization project showcasing interactive user interfaces.
 
-### [OpenAccess](https://github
+### [OpenAccess](https://github.com/timedilationv2/openaccess)
+An open-source initiative focused on freely accessible information sharing.
+
+[Wiki](https://github.com/timedilationv2/openaccess/wiki)
+
+### [SampleSite](https://github.com/timedilationv2/samplesite)
+A project dedicated to exploring advanced frontend design and seamless backend integration.
+
+## Writing and Media
+
+[Substack Articles](https://substack.com/home/post/p-160994021?source=queue), [ESPNcricinfo: Karachi Symphony](https://www.espncricinfo.com/story/karachi-symphony-614950), [Personal Blog](https://arsalanarifk.wordpress.com)
+
+## Connect
+
+[GitHub](https://github.com/timedilationv2) • [LinkedIn](https://www.linkedin.com/in/timedilation/) • [X (Twitter)](https://x.com/timedilationv2)
+
+Feel free to explore my projects and connect. I value meaningful collaboration and look forward to engaging with the community.
