@@ -11,6 +11,10 @@ A dynamic project where simplicity meets responsiveness.
 - **Live Demo:** [Skittly Live](https://timedilationv2.github.io/skittly/)
 - **Frontend Showcase:** [Skittly Frontend](https://timedilationv2.github.io/skittly-frontend/)
 
+### Skittly Hub
+An integrated resource hub that connects various facets of the Skittly project, offering unified access to demos and additional project details.  
+- **Live Demo:** [Skittly Hub](https://timedilationv2.github.io/skittly-hub/)
+
 ### Ninjaguar-
 A creative exploration in design and functionality, showcasing rapid development techniques.  
 - **GitHub Repository:** [Ninjaguar- Repository](https://github.com/timedilationv2/ninjaguar-)
@@ -35,13 +39,14 @@ I’m in the process of building a static site portfolio to create a seamless na
 
 - **Skittly & Frontend:** [Skittly & Skittly Frontend](https://timedilationv2.github.io/skittly/)
 - **Ninjaguar-:** [Ninjaguar-](https://timedilationv2.github.io/ninjaguar-/)
+- **Skittly Hub:** [Skittly Hub](https://timedilationv2.github.io/skittly-hub/)
 
 ## Writings & Media
 
 I also share insights, technical deep-dives, and creative perspectives on various platforms:
 
 - **Substack Articles:** [Substack Post](https://substack.com/home/post/p-160994021?source=queue)
-- **In-Depth Media Coverage:** Read this feature on [Karachi Symphony at ESPNcricinfo](https://www.espncricinfo.com/story/karachi-symphony-614950)
+- **In-Depth Media Coverage:** [Karachi Symphony on ESPNcricinfo](https://www.espncricinfo.com/story/karachi-symphony-614950)
 - **Personal Blog:** [Arsalan Arifk's WordPress](https://arsalanarifk.wordpress.com)
 
 ## Connect With Me
