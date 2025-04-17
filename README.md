@@ -1,6 +1,6 @@
 <div align="center">
   
-# Arsalan Arif Khan (Timedilationv2)
+# @timedilationV2
 
 [![GitHub](https://img.shields.io/badge/GitHub-timedilationv2-181717?style=flat-square&logo=github)](https://github.com/timedilationv2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsalan%20Arif%20Khan-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/timedilation/)
