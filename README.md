@@ -25,42 +25,28 @@
 
 [⬆️ Back to Top](#arsalan-arif-khan-timedilationv2)
 
----
+# About Me
 
-## Projects
+## Hi, I'm Arsalan Khan.
 
-| Project Name | Description | Tech Stack | Links |
-|--------------|-------------|------------|-------|
-| [**Skittly**](https://github.com/timedilationv2/skittly) | AI-powered ATS response optimization platform. | React, Tailwind CSS, JS | [Wiki](https://github.com/timedilationv2/skittly/wiki) • [Live Demo](https://timedilationv2.github.io/skittly/) • [Frontend](https://timedilationv2.github.io/skittly-frontend/) • [Hub](https://timedilationv2.github.io/skittly-hub/) |
-| [**Ninjaguar**](https://github.com/timedilationv2/ninjaguar-) | Rapid prototype with responsive, modern frontend. | HTML, CSS, JS | [Live Demo](https://timedilationv2.github.io/ninjaguar-/) |
-| [**PRJKT DITA**](https://github.com/timedilationv2/PRJKT_DITA) | Experimental interactive data visualization. | JS, HTML, CSS | [Repo](https://github.com/timedilationv2/PRJKT_DITA) |
-| [**OpenAccess**](https://github.com/timedilationv2/openaccess) | Open-source initiative for accessible knowledge. | HTML, CSS, JS | [Wiki](https://github.com/timedilationv2/openaccess/wiki) |
-| [**SampleSite**](https://github.com/timedilationv2/samplesite) | Advanced frontend design exploration. | HTML, CSS, JS | [Repo](https://github.com/timedilationv2/samplesite) |
+I build structured, scalable systems with clarity, automation, and a minimalist approach. My projects bridge strategy, technology, and real-world execution—especially in the realms of AI, automation, and seamless developer workflows.
 
-[⬆️ Back to Top](#arsalan-arif-khan-timedilationv2)
+## What I Do:
+- **Documentation Automation:** Streamlining collaborative documentation through automated integrations (Google Docs, GitHub, MkDocs, Cloud Run).
+- **Developer Tools:** Building clean, efficient, CLI-driven tooling.
+- **Cloud Infrastructure:** Deploying minimalist, scalable applications on Google Cloud Platform.
+- **AI Integration:** Leveraging OpenAI (GPT, Whisper), Google Vertex AI, and NVIDIA platforms.
 
----
+## Tech Stack:
+- **Languages:** Python, Bash, JavaScript
+- **Frameworks & Tools:** MkDocs, Docker, Google Apps Script, Cloud Run
+- **Platforms:** GCP, GitHub, Firebase, OpenAI API, NVIDIA platforms
 
-## Writing and Media
+## Current Projects:
+- [**SkyCloud Docs**](https://skycloud-docs-354864629572.us-central1.run.app/): A minimalist documentation solution, automated end-to-end from Google Docs to MkDocs.
+- [**termdocs**](https://github.com/timedilationv2/termdocs): Automated and integrated documentation workflow repository.
 
-- [Substack Articles](https://substack.com/home/post/p-160994021?source=queue)
-- [ESPNcricinfo: Karachi Symphony](https://www.espncricinfo.com/story/karachi-symphony-614950)
-- [Personal Blog](https://arsalanarifk.wordpress.com)
+## Connect With Me:
+- **GitHub:** [timedilationv2](https://github.com/timedilationv2)
 
-[⬆️ Back to Top](#arsalan-arif-khan-timedilationv2)
-
----
-
-## Connect
-
-| Platform | Link |
-|----------|------|
-| **GitHub** | [timedilationv2](https://github.com/timedilationv2) |
-| **LinkedIn** | [Arsalan Arif Khan](https://www.linkedin.com/in/timedilation/) |
-| **X (Twitter)** | [@timedilationv2](https://x.com/timedilationv2) |
-
-Feel free to explore these projects and connect—I welcome meaningful collaborations and discussions.
-
-[⬆️ Back to Top](#arsalan-arif-khan-timedilationv2)
-
----  
+Feel free to explore my repositories, provide feedback, or collaborate on meaningful projects.
