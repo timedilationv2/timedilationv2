@@ -25,19 +25,13 @@
 
 [⬆️ Back to Top](#arsalan-arif-khan-timedilationv2)
 
-# About Me
-
-## Hi, I'm Arsalan Khan.
-
-I build structured, scalable systems with clarity, automation, and a minimalist approach. My projects bridge strategy, technology, and real-world execution—especially in the realms of AI, automation, and seamless developer workflows.
-
-## What I Do:
+## Summary:
 - **Documentation Automation:** Streamlining collaborative documentation through automated integrations (Google Docs, GitHub, MkDocs, Cloud Run).
 - **Developer Tools:** Building clean, efficient, CLI-driven tooling.
 - **Cloud Infrastructure:** Deploying minimalist, scalable applications on Google Cloud Platform.
 - **AI Integration:** Leveraging OpenAI (GPT, Whisper), Google Vertex AI, and NVIDIA platforms.
 
-## Tech Stack:
+## Additional Stack:
 - **Languages:** Python, Bash, JavaScript
 - **Frameworks & Tools:** MkDocs, Docker, Google Apps Script, Cloud Run
 - **Platforms:** GCP, GitHub, Firebase, OpenAI API, NVIDIA platforms
