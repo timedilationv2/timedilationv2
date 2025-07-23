@@ -1,19 +1,3 @@
-Of course. To give your README a consistent feel with the provided examples (`sophie-ai` and `interaktive`), we need to adopt their core design principles:
-
-  * **Minimalism & Clarity:** Use concise, confident language.
-  * **Strong Hierarchy:** Employ bold headings and structured layouts to guide the eye.
-  * **Modern & Tech-Focused Tone:** Frame your skills and projects with an active, forward-thinking voice.
-  * **Clean Structure:** Use elements like tables and blockquotes to organize information neatly, avoiding clutter.
-
-Here is a revised version of your `README.md` that incorporates this UX/UI philosophy.
-
------
-
-### Revised README.md Markup Script
-
-Simply copy and paste this code into your `README.md` file.
-
-```markdown
 <div align="center">
 
 # Arsalan Arif Khan
@@ -95,4 +79,3 @@ I'm always exploring new collaborations and complex challenges. If you have an i
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
 </div>
-```
