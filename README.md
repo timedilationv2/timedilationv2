@@ -1,8 +1,8 @@
 <div align="center">
 
-# Arsalan Arif Khan
+# Arsalan Khan
 
-### Documentation Systems Architect · AI Knowledge Engineering
+### Tech Writer/Founder/Solopreneur · AI, Knowledge, Engineering.
 
 <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMyIgdmlld0JveD0iMCAwIDMwMCAzIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSIwJSIgeTE9IjUwJSIgeDI9IjEwMCUiIHkyPSI1MCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMyNTYzRUIiIHN0b3Atb3BhY2l0eT0iMCIvPjxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjMjU2M0VCIiBzdG9wLW9wYWNpdHk9IjEiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMyNTYzRUIiIHN0b3Atb3BhY2l0eT0iMCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHdpZHRoPSIzMDAiIGhlaWdodD0iMyIgZmlsbD0idXJsKCNhKSIgZmlsbC1vcGFjaXR5PSIwLjkiLz48L3N2Zz4=" alt="separator"/>
 
@@ -27,11 +27,11 @@
 
 ---
 
-## The Philosophy: Systems-First Documentation
+## documentation
 
 My approach is simple: treat documentation as a product, not an afterthought. I build robust, docs-as-code pipelines that emphasize structure, reuse, and automation. [cite_start]This means delivering launch-ready outputs that are as reliable as the software they describe. [cite: 4, 5]
 
-### My Core Differentiators:
+### Core differences
 * [cite_start]**Engineering Mindset:** I build documentation with CI/CD, version control, and modularity baked in from day one. [cite: 4]
 * [cite_start]**AI-Native Authoring:** I construct agent-ready prompt packs, structured knowledge bases for RAG, and automated extraction tools. [cite: 7]
 * [cite_start]**Cross-Domain Fluency:** I translate complexity into clarity, whether it's for aerospace fault trees, biotech data ingestion, or LLM prompt systems. [cite: 6]
