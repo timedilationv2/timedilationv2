@@ -1,7 +1,7 @@
 <!-- README.md — Timedilationv2 -->
 
 # Arsalan Arif Khan  
-### Documentation Systems Architect · AI Knowledge Engineering
+### Dev, Tech writer.
 
 [![GitHub](https://img.shields.io/badge/GitHub-timedilationv2-181717?style=for-the-badge&logo=github)](https://github.com/timedilationv2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arsalan%20Arif%20Khan-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/timedilation/)
