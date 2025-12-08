@@ -2,7 +2,8 @@
 
 ### Dev, Tech writer.
 
-<!-- TOP BUTTON ROW: keep your existing GitHub / LinkedIn / Portfolio / Email buttons here -->
+<!-- keep your existing GitHub / LinkedIn / Portfolio / Email button row here -->
+<!-- e.g. [![GitHub](...)](...) [![LinkedIn](...)](...) [![Portfolio](...)](...) [![Email](...)](...) -->
 
 I architect documentation systems that behave like scalable software — versioned, modular, executable, and intelligence-ready.  
 My work lives at the intersection of engineering clarity, AI integration, and user-focused design.
@@ -19,12 +20,12 @@ My work lives at the intersection of engineering clarity, AI integration, and us
 
 ## Professional Timeline
 
-| Company / Org        | Role                         | Years        | Core Impact                                                            |
-|----------------------|-----------------------------|-------------:|------------------------------------------------------------------------|
-| Zleo AI              | Docs Systems Architect       | 2024–Present | Built a living documentation system with AI-driven SEO and automation. |
-| Chevron Federal CU   | Sr. Technical Writer (CTR)   | 2021–Present | Modernised SOP suite, removing ambiguity across operations.            |
-| AVIC Aircraft        | Technical Writer / PM Lead   | 2015–2020    | Translated complex fault-tree diagrams into procedural docs.           |
-| Inbox Systems        | Technical Writer             | 2013–2014    | Produced 90 k+ words of end-user and platform documentation.           |
+| Company / Org        | Role                        | Years        | Core Impact                                                            |
+|----------------------|----------------------------|--------------|------------------------------------------------------------------------|
+| Zleo AI              | Docs Systems Architect      | 2024–Present | Built a living documentation system with AI-driven SEO and automation. |
+| Chevron Federal CU   | Sr. Technical Writer (CTR)  | 2021–Present | Modernised SOP suite, removing ambiguity across operations.            |
+| AVIC Aircraft        | Technical Writer / PM Lead  | 2015–2020    | Translated complex fault-tree diagrams into procedural docs.           |
+| Inbox Systems        | Technical Writer            | 2013–2014    | Produced 90k+ words of end-user and platform documentation.            |
 
 ---
 
@@ -42,22 +43,20 @@ My work lives at the intersection of engineering clarity, AI integration, and us
 
 ## Technology Stack
 
-<!-- Keep your existing tech stack badges/icons here -->
-<!-- e.g. Python, GitHub Actions, OpenAI, MkDocs, Hugo, Mermaid, FastAPI, Git badges -->
+<!-- keep your existing tech stack icon row here -->
+<!-- e.g. [![Python](...)](...) [![GitHub Actions](...)](...) [![OpenAI](...)](...) [![MkDocs](...)](...) etc. -->
 
 ---
 
 ## Featured Projects
 
-| Project    | Purpose / Snapshot                                      | Tech Stack        | Links   |
-|-----------|----------------------------------------------------------|-------------------|--------|
-| Skittly   | AI-powered ATS response optimiser                        | React · Tailwind  | [Repo](#)   |
-| Ninjaguar | Rapid-prototyping playground for responsive UI patterns  | HTML · CSS · JS   | [Demo](#)   |
-| PRJKT DITA| Experimental interactive data-visualisation              | JS · HTML · CSS   | [Repo](#)   |
-| OpenAccess| Open-source initiative for accessible knowledge          | HTML · CSS · JS   | [Wiki](#)   |
-| SampleSite| Advanced front-end design exploration                    | HTML · CSS · JS   | [Repo](#)   |
-
-> Swap the `#` links above with your existing repo / demo URLs, or just drop in your current link buttons.
+| Project      | Purpose / Snapshot                                     | Tech Stack        | Links    |
+|-------------|---------------------------------------------------------|-------------------|----------|
+| Skittly     | AI-powered ATS response optimiser                      | React · Tailwind  | [Repo](https://github.com/…) |
+| Ninjaguar   | Responsive UI pattern prototyping playground           | HTML · CSS · JS   | [Demo](https://timedilationv2.github.io) |
+| PRJKT DITA  | Experimental interactive data-visualisation            | JS · HTML · CSS   | [Repo](https://github.com/…) |
+| OpenAccess  | Open-source initiative for accessible knowledge        | HTML · CSS · JS   | [Wiki](https://github.com/…) |
+| SampleSite  | Advanced front-end design exploration                  | HTML · CSS · JS   | [Repo](https://github.com/…) |
 
 ---
 
@@ -80,12 +79,12 @@ My work lives at the intersection of engineering clarity, AI integration, and us
 
 ## Connect
 
-| Platform | Link                                                             |
-|----------|------------------------------------------------------------------|
-| GitHub   | [timedilationv2](https://github.com/timedilationv2)              |
-| LinkedIn | [Arsalan Arif Khan](https://www.linkedin.com/in/arsalanarifk)    |
-| X / Twitter | [@timedilationv2](https://x.com/timedilationv2)               |
-| Email    | arifkhanarsalan@gmail.com                                        |
+| Platform   | Link                                                             |
+|-----------|------------------------------------------------------------------|
+| GitHub    | [timedilationv2](https://github.com/timedilationv2)              |
+| LinkedIn  | [Arsalan Arif Khan](https://www.linkedin.com/in/arsalanarifk)    |
+| X / Twitter | [@timedilationv2](https://x.com/timedilationv2)                |
+| Email     | arifkhanarsalan@gmail.com                                        |
 
 ---
 
