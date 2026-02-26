@@ -1,125 +1,69 @@
-# Arsalan Arif Khan
+<h1 align="center">Arsalan Khan</h1>
+<p align="center">
+Technical Writer • SOP & Procedure Documentation • Engineering & Regulated Systems
+<br/>
+Lynnwood, WA, USA
+</p>
 
-### Dev, Tech writer.
-
-<!-- keep your existing GitHub / LinkedIn / Portfolio / Email button row here -->
-<!-- e.g. [![GitHub](...)](...) [![LinkedIn](...)](...) [![Portfolio](...)](...) [![Email](...)](...) -->
-
-I architect documentation systems that behave like scalable software — versioned, modular, executable, and intelligence-ready.  
-My work lives at the intersection of engineering clarity, AI integration, and user-focused design.
-
----
-
-## Philosophy — Systems-First Documentation
-
-- Engineering mindset – CI/CD, version control, and modularity from day one.  
-- AI-native authoring – prompt packs, RAG-ready knowledge bases, automated extractors.  
-- Cross-domain fluency – translating complexity in aerospace, fintech, biotech, and LLM tooling into clear guidance.
+<p align="center">
+<a href="https://github.com/timedilationv2">GitHub</a> •
+<a href="#">LinkedIn</a> •
+<a href="#">Portfolio</a>
+</p>
 
 ---
 
-## Professional Timeline
+## About
 
-| Company / Org        | Role                        | Years        | Core Impact                                                            |
-|----------------------|----------------------------|--------------|------------------------------------------------------------------------|
-| Zleo AI              | Docs Systems Architect      | 2024–Present | Built a living documentation system with AI-driven SEO and automation. |
-| Chevron Federal CU   | Sr. Technical Writer (CTR)  | 2021–Present | Modernised SOP suite, removing ambiguity across operations.            |
-| AVIC Aircraft        | Technical Writer / PM Lead  | 2015–2020    | Translated complex fault-tree diagrams into procedural docs.           |
-| Inbox Systems        | Technical Writer            | 2013–2014    | Produced 90k+ words of end-user and platform documentation.            |
+I document how systems actually work.
 
----
+My background spans aviation and power equipment, regulated financial operations, industrial projects, telecom services, and modern platform environments. Most of my work starts the same way: talk to the people doing the job, understand the real workflow, then turn that into something clear, repeatable, and usable.
 
-## Domains of Expertise
-
-| Domain              | Depth        | Sample Deliverables                                      |
-|---------------------|-------------:|----------------------------------------------------------|
-| API / SDK Docs      | Advanced     | Auth flows, REST/GraphQL specs, OpenAPI builds          |
-| SOP & Process Docs  | Advanced     | Audit-ready fintech manuals, regulatory SOPs            |
-| AI / ML Docs        | Advanced     | Prompt flows, context builders, agent pipelines         |
-| System Architecture | Advanced     | Execution chains, signal-flow diagrams, KB schemas      |
-| Biotech / Research  | Intermediate | Digital lab notebooks, protocol versioning              |
+I focus on procedures, operational guidance, and documentation that reduces guesswork — materials teams can rely on for training, onboarding, and day-to-day execution.
 
 ---
 
-## Technology Stack
+## What I Work On
 
-<!-- keep your existing tech stack icon row here -->
-<!-- e.g. [![Python](...)](...) [![GitHub Actions](...)](...) [![OpenAI](...)](...) [![MkDocs](...)](...) etc. -->
-
----
-
-## Featured Projects
-
-| Project      | Purpose / Snapshot                                     | Tech Stack        | Links    |
-|-------------|---------------------------------------------------------|-------------------|----------|
-| Skittly     | AI-powered ATS response optimiser                      | React · Tailwind  | [Repo](https://github.com/…) |
-| Ninjaguar   | Responsive UI pattern prototyping playground           | HTML · CSS · JS   | [Demo](https://timedilationv2.github.io) |
-| PRJKT DITA  | Experimental interactive data-visualisation            | JS · HTML · CSS   | [Repo](https://github.com/…) |
-| OpenAccess  | Open-source initiative for accessible knowledge        | HTML · CSS · JS   | [Wiki](https://github.com/…) |
-| SampleSite  | Advanced front-end design exploration                  | HTML · CSS · JS   | [Repo](https://github.com/…) |
+| Area | Focus |
+|------|-------|
+| Operations | SOPs, work instructions, process documentation |
+| Engineering | Maintenance procedures, technical manuals |
+| Systems | Workflow capture, transition documentation |
+| Support | Troubleshooting guides, knowledge base content |
+| Governance | Controlled documents, revision management |
 
 ---
 
-## Writing & Media
+## Tools & Methods
 
-- [Substack Articles](https://timedilationv2.substack.com)  
-- [ESPNcricinfo – “Karachi Symphony”](https://www.espncricinfo.com)  
-- [Personal Blog](https://arsalanarifk.wordpress.com)
-
----
-
-## Fun & Human Layer
-
-- Home base: Seattle metro (Lynnwood, WA)  
-- Currently exploring: Knowledge graphs for multi-agent AI systems  
-- Side projects: Context-pack generator for LLMs, “Zero-to-Docs” starter kit  
-- Coffee chat? Always up for deep dives into tech docs, automation, or startup ideas.
+Markdown • Git • Confluence • SharePoint  
+Structured templates • Version control • SME interviews  
+Process analysis • Controlled release practices  
 
 ---
 
-## Connect
+## Selected Repositories
 
-| Platform   | Link                                                             |
-|-----------|------------------------------------------------------------------|
-| GitHub    | [timedilationv2](https://github.com/timedilationv2)              |
-| LinkedIn  | [Arsalan Arif Khan](https://www.linkedin.com/in/arsalanarifk)    |
-| X / Twitter | [@timedilationv2](https://x.com/timedilationv2)                |
-| Email     | arifkhanarsalan@gmail.com                                        |
+| Project | Description |
+|---------|-------------|
+| 📘 [cli-plus-sdk-docs](https://github.com/timedilationv2/cli-plus-sdk-docs) | CLI & SDK documentation set |
+| 🌐 [samplesite](https://github.com/timedilationv2/samplesite) | Static documentation site |
+| 🧹 [Docs_cleaner](https://github.com/timedilationv2/Docs_cleaner) | Documentation cleanup utility |
 
----
-
-© 2025 Arsalan Arif Khan
-## Repositories
-
-### 📘 Documentation & Technical Writing
-
-- 🔹 [cli-plus-sdk-docs](https://github.com/timedilationv2/cli-plus-sdk-docs)  
-  Professional documentation set for a fictional CLI tool and Python SDK, including installation, usage, configuration, and troubleshooting.
-
-- 🔹 [samplesite](https://github.com/timedilationv2/samplesite)  
-  Static documentation site with structured content, sample packages, and web application starter components.
-
-- 🔹 [Docs_cleaner](https://github.com/timedilationv2/Docs_cleaner)  
-  Project focused on organizing, cleaning, and standardizing documentation repositories.
+👉 <a href="https://github.com/timedilationv2?tab=repositories">View all repositories</a>
 
 ---
 
-### 🛠️ Systems & Tools (Selected)
+## Approach
 
-- 🔹 [your-repo-name](https://github.com/timedilationv2/your-repo-name)  
-  Brief one-line description of what the project demonstrates.
-
-- 🔹 [your-repo-name](https://github.com/timedilationv2/your-repo-name)  
-  Brief one-line description.
-
----
-
-### 🧪 Experiments & Learning Projects
-
-- 🔹 [your-repo-name](https://github.com/timedilationv2/your-repo-name)  
-  Short description (automation, scripts, prototypes, etc.)
+- Capture real workflows, not idealized ones  
+- Replace tribal knowledge with documented guidance  
+- Keep structure consistent and maintainable  
+- Write for the person doing the work  
 
 ---
 
-➡️ See all repositories:  
-👉 https://github.com/timedilationv2?tab=repositories
+<p align="center">
+Open to documentation roles and contract work
+</p>
