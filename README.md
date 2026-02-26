@@ -89,3 +89,37 @@ My work lives at the intersection of engineering clarity, AI integration, and us
 ---
 
 © 2025 Arsalan Arif Khan
+## Repositories
+
+### 📘 Documentation & Technical Writing
+
+- 🔹 [cli-plus-sdk-docs](https://github.com/timedilationv2/cli-plus-sdk-docs)  
+  Professional documentation set for a fictional CLI tool and Python SDK, including installation, usage, configuration, and troubleshooting.
+
+- 🔹 [samplesite](https://github.com/timedilationv2/samplesite)  
+  Static documentation site with structured content, sample packages, and web application starter components.
+
+- 🔹 [Docs_cleaner](https://github.com/timedilationv2/Docs_cleaner)  
+  Project focused on organizing, cleaning, and standardizing documentation repositories.
+
+---
+
+### 🛠️ Systems & Tools (Selected)
+
+- 🔹 [your-repo-name](https://github.com/timedilationv2/your-repo-name)  
+  Brief one-line description of what the project demonstrates.
+
+- 🔹 [your-repo-name](https://github.com/timedilationv2/your-repo-name)  
+  Brief one-line description.
+
+---
+
+### 🧪 Experiments & Learning Projects
+
+- 🔹 [your-repo-name](https://github.com/timedilationv2/your-repo-name)  
+  Short description (automation, scripts, prototypes, etc.)
+
+---
+
+➡️ See all repositories:  
+👉 https://github.com/timedilationv2?tab=repositories
