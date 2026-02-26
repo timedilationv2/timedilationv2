@@ -1,69 +1,127 @@
-<h1 align="center">Arsalan Khan</h1>
+<h1 align="center">ARSALAN KHAN</h1>
+
 <p align="center">
-Technical Writer • SOP & Procedure Documentation • Engineering & Regulated Systems
-<br/>
+Technical Writer | SOP & Procedure Documentation | Engineering & Regulated Systems | Docs-as-Code (Markdown, Git)
+</p>
+
+<p align="center">
 Lynnwood, WA, USA
 </p>
 
 <p align="center">
-<a href="https://github.com/timedilationv2">GitHub</a> •
-<a href="#">LinkedIn</a> •
-<a href="#">Portfolio</a>
+<a href="https://github.com/timedilationv2"><b>GitHub</b></a> •
+<a href="#"><b>LinkedIn</b></a> •
+<a href="#"><b>Portfolio</b></a>
 </p>
 
 ---
 
-## About
+## PROFILE
 
-I document how systems actually work.
-
-My background spans aviation and power equipment, regulated financial operations, industrial projects, telecom services, and modern platform environments. Most of my work starts the same way: talk to the people doing the job, understand the real workflow, then turn that into something clear, repeatable, and usable.
-
-I focus on procedures, operational guidance, and documentation that reduces guesswork — materials teams can rely on for training, onboarding, and day-to-day execution.
+Technical Writer experienced in documenting engineering systems, operational workflows, and regulated processes across aviation, energy, financial services, industrial projects, and telecommunications. Produces structured documentation based on SME input, process analysis, and real-world system behavior.
 
 ---
 
-## What I Work On
+## CORE COMPETENCIES
 
-| Area | Focus |
-|------|-------|
-| Operations | SOPs, work instructions, process documentation |
-| Engineering | Maintenance procedures, technical manuals |
-| Systems | Workflow capture, transition documentation |
-| Support | Troubleshooting guides, knowledge base content |
-| Governance | Controlled documents, revision management |
-
----
-
-## Tools & Methods
-
-Markdown • Git • Confluence • SharePoint  
-Structured templates • Version control • SME interviews  
-Process analysis • Controlled release practices  
-
----
-
-## Selected Repositories
-
-| Project | Description |
-|---------|-------------|
-| 📘 [cli-plus-sdk-docs](https://github.com/timedilationv2/cli-plus-sdk-docs) | CLI & SDK documentation set |
-| 🌐 [samplesite](https://github.com/timedilationv2/samplesite) | Static documentation site |
-| 🧹 [Docs_cleaner](https://github.com/timedilationv2/Docs_cleaner) | Documentation cleanup utility |
-
-👉 <a href="https://github.com/timedilationv2?tab=repositories">View all repositories</a>
+<table>
+<tr>
+<td>Technical Documentation</td>
+<td>SOPs & Work Instructions</td>
+<td>Process Documentation</td>
+</tr>
+<tr>
+<td>Maintenance Manuals</td>
+<td>Troubleshooting Guides</td>
+<td>Knowledge Base Content</td>
+</tr>
+<tr>
+<td>Document Control</td>
+<td>Revision Management</td>
+<td>Workflow Analysis</td>
+</tr>
+</table>
 
 ---
 
-## Approach
+## METHODS & TOOLS
 
-- Capture real workflows, not idealized ones  
-- Replace tribal knowledge with documented guidance  
-- Keep structure consistent and maintainable  
-- Write for the person doing the work  
+<table>
+<tr>
+<td><b>Authoring</b></td>
+<td>Markdown • Structured templates</td>
+</tr>
+<tr>
+<td><b>Version Control</b></td>
+<td>Git • Controlled release practices</td>
+</tr>
+<tr>
+<td><b>Platforms</b></td>
+<td>Confluence • SharePoint • Office 365</td>
+</tr>
+<tr>
+<td><b>Process Capture</b></td>
+<td>SME interviews • Requirements gathering • Validation</td>
+</tr>
+</table>
 
 ---
+
+## INDUSTRY EXPERIENCE
+
+<table>
+<tr>
+<td>Aerospace & Engineering Systems</td>
+<td>Energy & Industrial Operations</td>
+</tr>
+<tr>
+<td>Financial & Administrative Processes</td>
+<td>Technology & Platform Operations</td>
+</tr>
+<tr>
+<td>Telecommunications Support</td>
+<td>Compliance-Sensitive Environments</td>
+</tr>
+</table>
+
+---
+
+## SELECTED REPOSITORIES
+
+<table>
+<tr>
+<td><a href="https://github.com/timedilationv2/cli-plus-sdk-docs"><b>cli-plus-sdk-docs</b></a></td>
+<td>CLI & SDK documentation project</td>
+</tr>
+<tr>
+<td><a href="https://github.com/timedilationv2/samplesite"><b>samplesite</b></a></td>
+<td>Static documentation website</td>
+</tr>
+<tr>
+<td><a href="https://github.com/timedilationv2/Docs_cleaner"><b>Docs_cleaner</b></a></td>
+<td>Documentation cleanup tool</td>
+</tr>
+</table>
 
 <p align="center">
-Open to documentation roles and contract work
+<a href="https://github.com/timedilationv2?tab=repositories"><b>View All Repositories →</b></a>
 </p>
+
+---
+
+## WORK APPROACH
+
+<table>
+<tr>
+<td>Capture existing workflows</td>
+<td>Translate into repeatable procedures</td>
+</tr>
+<tr>
+<td>Ensure accuracy through validation</td>
+<td>Maintain controlled revisions</td>
+</tr>
+<tr>
+<td>Support onboarding and operations</td>
+<td>Reduce reliance on undocumented practices</td>
+</tr>
+</table>
