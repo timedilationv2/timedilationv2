@@ -1,127 +1,103 @@
-<h1 align="center">ARSALAN KHAN</h1>
+# Hi, I’m Arsalan Khan
 
-<p align="center">
-Technical Writer | SOP & Procedure Documentation | Engineering & Regulated Systems | Docs-as-Code (Markdown, Git)
-</p>
+I’m a **Technical Writer and Documentation Specialist** with 10+ years of experience across **aviation technical records**, **EPC documentation**, **industrial project documentation**, and **controlled documentation workflows**.
 
-<p align="center">
-Lynnwood, WA, USA
-</p>
+I’ve worked in documentation environments connected to aviation support, aircraft spares, inspection records, power projects, hydropower, cement plants, infrastructure, procurement, commissioning, handover, and project closeout.
 
-<p align="center">
-<a href="https://github.com/timedilationv2"><b>GitHub</b></a> •
-<a href="#"><b>LinkedIn</b></a> •
-<a href="#"><b>Portfolio</b></a>
-</p>
+My focus is simple:
+
+> Build documentation that is clear, traceable, audit-ready, and useful to the people who actually depend on it.
 
 ---
 
-## PROFILE
+## What I Do
 
-Technical Writer experienced in documenting engineering systems, operational workflows, and regulated processes across aviation, energy, financial services, industrial projects, and telecommunications. Produces structured documentation based on SME input, process analysis, and real-world system behavior.
+```yaml
+Technical Writing:
+  - SOPs
+  - O&M manuals
+  - Work instructions
+  - Field-service content
+  - FAQs
+  - Technical manuals
 
----
+EPC Documentation:
+  - Technical proposals
+  - Compliance matrices
+  - Equipment lists
+  - FAT records
+  - Supplier submittals
+  - Material certificates
+  - Commissioning records
+  - Punch lists
+  - Handover files
+  - Closeout packages
 
-## CORE COMPETENCIES
+Aviation Records:
+  - Aircraft spares documentation
+  - Component traceability
+  - Serviceability records
+  - Inspection records
+  - AD/SB status
+  - IPC references
+  - OEM manuals
+  - Controlled technical records
 
-<table>
-<tr>
-<td>Technical Documentation</td>
-<td>SOPs & Work Instructions</td>
-<td>Process Documentation</td>
-</tr>
-<tr>
-<td>Maintenance Manuals</td>
-<td>Troubleshooting Guides</td>
-<td>Knowledge Base Content</td>
-</tr>
-<tr>
-<td>Document Control</td>
-<td>Revision Management</td>
-<td>Workflow Analysis</td>
-</tr>
-</table>
+Document Control:
+  - Document registers
+  - Revision trackers
+  - Controlled folders
+  - Document numbering
+  - Correspondence logs
+  - Audit-ready records
+Microsoft Word
+Microsoft Excel
+Microsoft PowerPoint
+Adobe Acrobat Pro
+Adobe FrameMaker
+DITA/XML
+SGML-based documentation workflows
+AutoCAD/DWG viewers
+PDF markup tools
+Document registers
+Revision tracking
+Controlled templates
+Technical tables
+Cross-references
+Multi-volume documentation packages
+AVIC International Shenzhen Company Ltd
+Principal Technical Writer
+2021 - 2025
 
----
+AVIC Heavy Machinery Co., Ltd.
+Technical Documentation Specialist
+2016 - 2021
 
-## METHODS & TOOLS
+Aviation Industry Corporation of China
+Technical Writer - Aviation Technical Records
+2014 - 2016
 
-<table>
-<tr>
-<td><b>Authoring</b></td>
-<td>Markdown • Structured templates</td>
-</tr>
-<tr>
-<td><b>Version Control</b></td>
-<td>Git • Controlled release practices</td>
-</tr>
-<tr>
-<td><b>Platforms</b></td>
-<td>Confluence • SharePoint • Office 365</td>
-</tr>
-<tr>
-<td><b>Process Capture</b></td>
-<td>SME interviews • Requirements gathering • Validation</td>
-</tr>
-</table>
+QUBEE
+Content Specialist
+2012 - 2014
+Developer Documentation
+Docs-as-Code
+Documentation Systems
+Structured Authoring
+Technical Writing for Engineering Teams
+Industrial Documentation Workflows
+Documentation Operations
+Technical Documentation
+Engineering Documentation
+Aviation Records
+EPC Documentation
+Document Control
+Structured Content
+Revision Tracking
+Audit-Ready Records
+Documentation Cleanup
+Cross-Functional Coordination
+Clear Technical Writing
+:::
 
----
-
-## INDUSTRY EXPERIENCE
-
-<table>
-<tr>
-<td>Aerospace & Engineering Systems</td>
-<td>Energy & Industrial Operations</td>
-</tr>
-<tr>
-<td>Financial & Administrative Processes</td>
-<td>Technology & Platform Operations</td>
-</tr>
-<tr>
-<td>Telecommunications Support</td>
-<td>Compliance-Sensitive Environments</td>
-</tr>
-</table>
-
----
-
-## SELECTED REPOSITORIES
-
-<table>
-<tr>
-<td><a href="https://github.com/timedilationv2/cli-plus-sdk-docs"><b>cli-plus-sdk-docs</b></a></td>
-<td>CLI & SDK documentation project</td>
-</tr>
-<tr>
-<td><a href="https://github.com/timedilationv2/samplesite"><b>samplesite</b></a></td>
-<td>Static documentation website</td>
-</tr>
-<tr>
-<td><a href="https://github.com/timedilationv2/Docs_cleaner"><b>Docs_cleaner</b></a></td>
-<td>Documentation cleanup tool</td>
-</tr>
-</table>
-
-<p align="center">
-<a href="https://github.com/timedilationv2?tab=repositories"><b>View All Repositories →</b></a>
-</p>
-
----
-
-## WORK APPROACH
-
-<table>
-<tr>
-<td>Capture existing workflows</td>
-<td>Translate into repeatable procedures</td>
-</tr>
-<tr>
-<td>Ensure accuracy through validation</td>
-<td>Maintain controlled revisions</td>
-</tr>
-<tr>
-<td>Support onboarding and operations</td>
-<td>Reduce reliance on undocumented practices</td>
-</tr>
-</table>
+This is now actual `.md` content you can paste straight into your GitHub `aboutme.md` or `README.md`. It’s based on your resume details: aviation records, EPC documentation, AVIC-linked work, tooling, and controlled documentation workflows.
