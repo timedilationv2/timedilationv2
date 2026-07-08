@@ -99,5 +99,3 @@ Documentation Cleanup
 Cross-Functional Coordination
 Clear Technical Writing
 :::
-
-This is now actual `.md` content you can paste straight into your GitHub `aboutme.md` or `README.md`. It’s based on your resume details: aviation records, EPC documentation, AVIC-linked work, tooling, and controlled documentation workflows.
